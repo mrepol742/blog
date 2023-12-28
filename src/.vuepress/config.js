@@ -5,6 +5,8 @@ module.exports = {
   description: description,
   head: [
 
+    ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
+
     ['link', { rel: 'alternate', href: 'https://mrepol742.github.io/rss/index.xml', title: 'Melvin Jones Repol » Feed', type: 'application/rss+xml' }],
     ['link', { rel: 'sitemap', href: 'https://mrepol742.github.io/opensearch.xml', title: 'Search...', type: 'application/opensearchdescription+xml' }],
     ['link', { rel: 'sitemap', href: 'https://mrepol742.github.io/sitemap/index.xml', title: 'Melvin Jones Repol » Sitemap', type: 'application/xml' }],
@@ -14,7 +16,6 @@ module.exports = {
     ['link', { rel: 'shortcut icon', href: 'https://mrepol742.github.io/favicon.png' }],
     ['link', { rel: 'icon', href: 'https://mrepol742.github.io/favicon.ico', type: 'image/x-icon' }],
 
-    ['link', { rel: 'manifest', href: 'https://mrepol742.github.io//site.webmanifest' }],
     ['link', { rel: 'apple-touch-icon', href: 'https://mrepol742.github.io/favicon.png' }],
     ['meta', { name: 'msapplication-TileImage', content: 'https://mrepol742.github.io/favicon.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
@@ -29,6 +30,8 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
   themeConfig: {
+    home: '/',
+    colorMode: "dark",
     logo: 'https://mrepol742.github.io/favicon.ico',
     sidebar: 'auto',
     repo: 'mrepol742/blog',
@@ -41,6 +44,7 @@ module.exports = {
     smoothScroll: true,
     displayAllHeaders: true,
     lastUpdated: true,
+    contributors: true,
     searchPlaceholder: 'Search articles...',
     nav: [
 
@@ -107,15 +111,19 @@ module.exports = {
     ]
   },
   plugins: [
-    '@vuepress/nprogress',
-    ['@vuepress/pwa', {
-      serviceWorker: true,
-      updatePopup: true
+    ['@vuepress/plugin-pwa', {
+      skipWaiting: true
     }],
+    ['@vuepress/plugin-external-link-icon', {
+      externalLinkIcon: false
+    }],
+    ['@vuepress/plugin-google-analytics', {
+      'ga': 'UA-00000000-0'
+    }],
+    '@vuepress/plugin-nprogress',
+    '@vuepress/plugin-git',
+    '@vuepress/plugin-toc',
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-    ['@vuepress/google-analytics', {
-      'ga': 'UA-00000000-0' // UA-00000000-0
-    }]
   ]
 }

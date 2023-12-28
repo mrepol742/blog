@@ -1,0 +1,21 @@
+{
+    "name": "mrepol742 @ Blog",
+    "short_name": "Blog",
+    "description": "",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#4285f4",
+    "icons": [
+      {
+        "src": "/images/icons/favicon_192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/icons/favicon_512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }

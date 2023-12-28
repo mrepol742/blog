@@ -47,6 +47,21 @@ The concept of an adaptive user interface is a leap forward in the realm of pers
 
 In an era where online privacy is a growing concern, Webvium's commitment to privacy sets it apart. Users can navigate the web with confidence, knowing that their data and preferences are handled with the utmost security.
 
+## **How to Download & Install?**
+
+### *Download Webvium.apk*
+
+Go to webvium website, to download the apk file. Webvium is available in 3 variants, stable, beta and dev releases.
+- [Webvium Stable](https://mrepol742.github.io/webvium)
+- [Webvium Beta](https://mrepol742.github.io/webviumbeta)
+- [Webvium Dev](https://mrepol742.github.io/webviumdev)
+
+Dev variant is prone to application crashes, glitch and bugs but it received the latest updates from the Webvium Repository. Webvium Beta released in a weekly basis after dev variant. Stable version is being released if the application has passed in quality assurance.
+
+### *Installation procedure*
+
+Like any other android applications, the installation is as easy as clicking the file and allowing the required prompts. 
+
 As Webvium Browser gains traction, it poses an exciting question: Could this be the future of web browsers? With its innovative features, user-centric design, and commitment to privacy, Webvium is poised to make a significant impact on the way we browse the internet.
 
 Stay tuned as Webvium continues to evolve, promising a future where browsing is not just a necessity but a personalized and secure journey through the vast expanse of the digital world. 🌐🚀
