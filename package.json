@@ -20,7 +20,7 @@
   "scripts": {
     "dev": "vuepress dev blog",
     "build": "vuepress build blog",
-    "build-git": "VUEPRESS_BASE=\"\" && vuepress build blog"
+    "build-git": "VUEPRESS_BASE=\"blog\" && vuepress build blog"
   },
   "license": "MIT",
   "dependencies": {
