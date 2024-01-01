@@ -7,6 +7,17 @@ tags:
   - webvium
   - lightweight browser
   - android browser
+meta:
+  - name: twitter:creator
+    content: '@mrepol742'
+  - name: twitter:title
+    content: Exploring the Future of Browsing - Introducing Webvium Browser
+  - property: og:title
+    content: Exploring the Future of Browsing - Introducing Webvium Browser
+  - name: author
+    content: mrepol742
+  - name: keywords
+    content: webvium lightweight-browser android-browser
 ---
 
 In the fast-paced world of web browsers, a new contender is emerging to redefine the way we navigate the digital landscape. **Webvium Browser** is making waves with its promise of innovation and a fresh approach to the browsing experience. Let's delve into what sets Webvium apart and how it might shape the future of our online interactions.

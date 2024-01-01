@@ -7,6 +7,17 @@ tags:
   - openai
   - chatgpt
   - prompt engineering
+meta:
+  - name: twitter:creator
+    content: '@mrepol742'
+  - name: twitter:title
+    content: Mastering the Art - Best Practices to Use ChatGPT
+  - property: og:title
+    content: Mastering the Art - Best Practices to Use ChatGPT
+  - name: author
+    content: mrepol742
+  - name: keywords
+    content: openai chatgpt prompt-engineering
 ---
 
 The advent of OpenAI's ChatGPT has opened up new possibilities for natural language understanding and generation. As users harness the power of this advanced language model, it becomes crucial to employ best practices for optimal results. Whether you're a developer, content creator, or an enthusiast exploring ChatGPT, adhering to these best practices will enhance your experience and ensure effective utilization.

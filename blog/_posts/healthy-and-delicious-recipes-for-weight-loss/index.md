@@ -7,6 +7,17 @@ tags:
   - recipes
   - healthy
   - fitness
+meta:
+  - name: twitter:creator
+    content: '@mrepol742'
+  - name: twitter:title
+    content: Healthy and Delicious Recipes for Weight Loss - A Comprehensive Guide
+  - property: og:title
+    content: Healthy and Delicious Recipes for Weight Loss - A Comprehensive Guide
+  - name: author
+    content: mrepol742
+  - name: keywords
+    content: recipes health fitness
 ---
 
 Embarking on a weight loss journey doesn't mean sacrificing flavor or enjoyment in your meals. In fact, a nutritious diet can be both delicious and satisfying. In this comprehensive guide, we'll explore a collection of healthy and mouthwatering recipes designed to support your weight loss goals. Say goodbye to bland meals and hello to a vibrant, flavorful approach to shedding those extra pounds.

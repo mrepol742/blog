@@ -45,9 +45,12 @@
 
 .search-box input {
   border: none !important;
-  background: #eaecef url(/assets/img/search.83621669.svg) 0.6rem 0.5rem no-repeat !important;
+  background: #000 url(/images/search.svg) 0.6rem 0.5rem no-repeat !important;
   background-size: 0.9rem !important;
+}
 
+input::placeholder {
+    color: #ffa31a !important;
 }
 
 h2 {
@@ -80,6 +83,10 @@ hr, .header-anchor, .vssue-header-powered-by {
   color: #ffa31a !important;
 }
 
+.ui-post-title a:hover {
+  color: #ffa31a !important;
+}
+
 .ui-post-title a, .ui-post-summary, .ui-post-author, .ui-post-date, .ui-post-tag {
   color: #fff !important;
 }
@@ -109,7 +116,7 @@ a span[data-v-6e4eacc1] {
   color: #000 !important;
 }
 
-a[data-v-6e4eacc1]:before  {
+a[data-v-6e4eacc1]:before {
  background: #000 !important;
 }
 
@@ -122,6 +129,14 @@ a[data-v-6e4eacc1]:after {
   color: #000;
 }
 
-.blog-tag:hover {
+.blog-tag:hover, .vuepress-blog-theme-content {
   color: #fff !important;
+}
+
+.vuepress-toc {
+  padding-top: 12rem !important;
+}
+
+.vuepress-toc .vuepress-toc-item {
+  border-left: 5px solid rgba(0,0,0,0.08);
 }

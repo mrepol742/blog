@@ -7,6 +7,17 @@ tags:
   - doityourself
   - decor
   - creativity
+meta:
+  - name: twitter:creator
+    content: '@mrepol742'
+  - name: twitter:title
+    content: DIY Home Decor Ideas on a Budget - Transform Your Space
+  - property: og:title
+    content: DIY Home Decor Ideas on a Budget - Transform Your Space
+  - name: author
+    content: mrepol742
+  - name: keywords
+    content: doityourself decor creativity
 ---
 
 Decorating your home doesn't have to break the bank. With a dash of creativity and a sprinkle of resourcefulness, you can transform your living space into a haven of style without draining your wallet. In this guide, we'll explore some budget-friendly DIY home decor ideas that will breathe new life into your surroundings.
