@@ -143,7 +143,7 @@ module.exports = {
         hostname: authors.url
       },
       feed: {
-        canonical_base: authors.url
+        canonical_base: 'https://mrepol742.github.io/blog/'
       },
     }]
   ]
