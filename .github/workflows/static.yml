@@ -38,7 +38,7 @@ jobs:
       - name: Build Blog
         run: |
           export NODE_OPTIONS=--openssl-legacy-provider
-          npm run build
+          npm run build-git
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:

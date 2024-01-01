@@ -1,6 +1,7 @@
 const { name, description, authors } = require('../../package')
 
 module.exports = {
+  base: process.env.VUEPRESS_BASE || '/',
   title: name,
   theme: '@vuepress/theme-blog',
   description: description,
