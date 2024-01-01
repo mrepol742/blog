@@ -36,7 +36,9 @@ jobs:
       - name: Download Dependecies
         run: npm i
       - name: Build Blog
-        run: npm run build
+        run: |
+          export NODE_OPTIONS=--openssl-legacy-provider
+          npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
