@@ -20,6 +20,8 @@ meta:
     content: travel adventure explore
 ---
 
+![Travel](/images/posts/travel.jpeg)
+
 Are you ready to embark on an unforgettable journey in 2024? The world is brimming with spectacular destinations waiting to be explored, and it's time to plan your ultimate adventure. From vibrant cities to serene landscapes, here's a curated list of the **Best Travel Destinations in 2024** that promises to satisfy every wanderlust-driven soul.
 
 ## 1. **Tokyo, Japan**

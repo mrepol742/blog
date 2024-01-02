@@ -20,6 +20,8 @@ meta:
     content: openai chatgpt prompt-engineering
 ---
 
+![OpenAI](/images/posts/openai.webp)
+
 The advent of OpenAI's ChatGPT has opened up new possibilities for natural language understanding and generation. As users harness the power of this advanced language model, it becomes crucial to employ best practices for optimal results. Whether you're a developer, content creator, or an enthusiast exploring ChatGPT, adhering to these best practices will enhance your experience and ensure effective utilization.
 
 ## **1. Clearly Define the Context**
