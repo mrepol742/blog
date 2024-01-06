@@ -80,5 +80,6 @@ Elevate a room's aesthetic with stenciled accent walls. Choose a simple geometri
 
 Transform outdated light fixtures with a coat of paint or new embellishments. Consider DIY pendant lights made from woven baskets or mason jars. Creative lighting solutions can instantly enhance the ambiance of your space.
 
+## **Summary**
 
 Embarking on a home decor journey doesn't have to strain your budget. These DIY ideas empower you to infuse your personality into your living space while keeping costs low. Remember, the key is to unleash your creativity and embrace the uniqueness of your handmade creations. With a little ingenuity, you can turn your home into a stylish sanctuary without emptying your wallet. Start transforming your space today!

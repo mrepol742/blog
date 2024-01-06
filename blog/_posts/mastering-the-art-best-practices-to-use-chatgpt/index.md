@@ -92,6 +92,7 @@ Keep yourself updated on the latest releases, updates, and guidelines provided b
 Regularly check the OpenAI documentation and blog for updates on new features, improvements, and guidelines.
 :::
 
+## **Summary**
 
 As you embark on your journey with ChatGPT, incorporating these best practices ensures a more effective and responsible use of this powerful language model. Whether you're engaging in casual conversations, content creation, or development projects, mastering the art of interacting with ChatGPT opens the door to a world of possibilities.
 

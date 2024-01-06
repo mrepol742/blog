@@ -104,5 +104,6 @@ Embarking on a weight loss journey doesn't mean sacrificing flavor or enjoyment 
 3. Bring to a boil, then simmer for 25-30 minutes until lentils are tender.
 4. Garnish with fresh parsley before serving.
 
+## **Summary**
 
 Incorporating these healthy and delicious recipes into your weight loss journey can make the process enjoyable and sustainable. Remember, a balanced diet, combined with regular exercise, is key to achieving your fitness goals. Embrace the flavors, savor each bite, and let these recipes be a delightful part of your path to a healthier, happier you. Cheers to a tasty and nourishing journey!

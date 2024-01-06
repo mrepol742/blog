@@ -2,7 +2,7 @@
 
 # mrepol742 @ blog
 
-Welcome to the world of blogging and open-source collaboration! If you're eager to share your insights, tips, or experiences with a broader audience.
+Welcome to the world of blogging and open-source collaboration! Share your insights, tips, or experiences with a broader audience.
 
 ```bash
 # run

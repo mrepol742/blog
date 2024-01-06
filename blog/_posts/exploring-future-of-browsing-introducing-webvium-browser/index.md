@@ -84,6 +84,8 @@ Dev variant is prone to application crashes, glitch and bugs but it received the
 
 Like any other android applications, the installation is as easy as clicking the file and allowing the required prompts. 
 
+## **Summary**
+
 As Webvium Browser gains traction, it poses an exciting question: Could this be the future of web browsers? With its innovative features, user-centric design, and commitment to privacy, Webvium is poised to make a significant impact on the way we browse the internet.
 
 Stay tuned as Webvium continues to evolve, promising a future where browsing is not just a necessity but a personalized and secure journey through the vast expanse of the digital world. 🌐🚀

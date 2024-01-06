@@ -82,6 +82,7 @@ Step into the medieval charm of Dubrovnik, a city with a rich history and stunni
 
 Nature enthusiasts, rejoice! Banff National Park in Canada is a haven for outdoor adventures. Surrounded by the Canadian Rockies, the park boasts turquoise lakes, majestic mountains, and abundant wildlife. Hike through scenic trails, paddle on pristine lakes, and experience the unparalleled beauty of the Canadian wilderness.
 
+## **Summary**
 
 As you plan your travels for 2024, consider these destinations for a truly unforgettable adventure. Whether you're drawn to the cultural vibrancy of Tokyo, the natural wonders of Banff, or the romantic allure of Santorini, each destination on this list offers a unique and enriching experience. Pack your bags, embrace the spirit of exploration, and make 2024 the year of your ultimate adventure.
 
