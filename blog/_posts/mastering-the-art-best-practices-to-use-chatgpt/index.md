@@ -2,7 +2,6 @@
 title: Mastering the Art - Best Practices to Use ChatGPT
 date: 2023-12-29
 author: mrepol742
-location: Rizal  
 tags:
   - openai
   - chatgpt

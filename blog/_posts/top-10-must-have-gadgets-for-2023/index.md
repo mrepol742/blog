@@ -2,7 +2,6 @@
 title: Top 10 Must-Have Gadgets for 2023 - A Tech Enthusiast's Guide
 date: 2023-12-29
 author: mrepol742
-location: Rizal  
 tags:
   - innovation
   - technology

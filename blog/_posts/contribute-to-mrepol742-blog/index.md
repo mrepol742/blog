@@ -2,7 +2,6 @@
 title: How to Contribute to mrepol742 @ blog
 date: 2024-01-02
 author: mrepol742
-location: Rizal  
 tags:
   - mrepol742
   - blog

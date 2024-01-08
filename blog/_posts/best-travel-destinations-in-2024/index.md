@@ -2,7 +2,6 @@
 title: Best Travel Destinations in 2024 - Plan Your Ultimate Adventure
 date: 2024-01-01
 author: mrepol742
-location: Rizal  
 tags:
   - travel
   - adventure

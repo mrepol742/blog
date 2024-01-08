@@ -2,7 +2,6 @@
 title: VuePress - Simplifying Documentation
 date: 2024-01-06
 author: mrepol742
-location: Rizal  
 tags:
   - vuepress
   - documentation

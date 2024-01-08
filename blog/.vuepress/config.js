@@ -82,12 +82,12 @@ module.exports = {
         link: '/tag/',
       },
       {
-        text: 'Location',
-        link: '/location/',
-      },
-      {
         text: 'Author',
         link: '/author/',
+      },
+      {
+        text: 'About',
+        link: '/about/',
       }
     ],
     searchPlaceholder: 'Search articles...',
@@ -140,11 +140,6 @@ module.exports = {
           id: 'tag',
           keys: ['tag', 'tags'],
           path: '/tag/',
-        },
-        {
-          id: 'location',
-          keys: ['location', 'locations'],
-          path: '/location/',
         },
         {
           id: 'author',

@@ -2,7 +2,6 @@
 title: Healthy and Delicious Recipes for Weight Loss - A Comprehensive Guide
 date: 2023-12-29
 author: mrepol742
-location: Rizal  
 tags:
   - recipes
   - healthy

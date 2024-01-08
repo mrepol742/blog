@@ -2,7 +2,6 @@
 title: OpenAI ChatGPT + DELL - Revolutionizing Conversational AI
 date: 2023-12-29
 author: mrepol742
-location: Rizal  
 tags:
   - openai
   - ai

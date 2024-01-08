@@ -2,7 +2,6 @@
 title: DIY Home Decor Ideas on a Budget - Transform Your Space
 date: 2023-12-29
 author: mrepol742
-location: Rizal  
 tags:
   - doityourself
   - decor
