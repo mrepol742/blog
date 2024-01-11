@@ -18,9 +18,13 @@ meta:
     content: mrepol742
   - name: keywords
     content: webvium lightweight-browser android-browser
+  - property: og:url
+    content: https://mrepol742.github.io/blog/post/2023/12/29/exploring-future-of-browsing-introducing-webvium-browser/
+  - rel: canonical
+    href: https://mrepol742.github.io/blog/post/2023/12/29/exploring-future-of-browsing-introducing-webvium-browser/
 ---
 
-![Webvium Browser](/images/posts/webvium.jpeg)
+![Webvium Browser](/blog/images/posts/webvium.jpeg)
 
 In the fast-paced world of web browsers, a new contender is emerging to redefine the way we navigate the digital landscape. **Webvium Browser** is making waves with its promise of innovation and a fresh approach to the browsing experience. Let's delve into what sets Webvium apart and how it might shape the future of our online interactions.
 

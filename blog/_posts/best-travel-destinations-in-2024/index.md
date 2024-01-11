@@ -17,9 +17,13 @@ meta:
     content: mrepol742
   - name: keywords
     content: travel adventure explore
+  - property: og:url
+    content: https://mrepol742.github.io/blog/post/2024/01/01/best-travel-destinations-in-2024/
+  - rel: canonical
+    href: https://mrepol742.github.io/blog/post/2024/01/01/best-travel-destinations-in-2024/
 ---
 
-![Travel](/images/posts/travel.jpeg)
+![Travel](/blog/images/posts/travel.jpeg)
 
 Are you ready to embark on an unforgettable journey in 2024? The world is brimming with spectacular destinations waiting to be explored, and it's time to plan your ultimate adventure. From vibrant cities to serene landscapes, here's a curated list of the **Best Travel Destinations in 2024** that promises to satisfy every wanderlust-driven soul.
 

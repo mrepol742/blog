@@ -17,9 +17,13 @@ meta:
     content: mrepol742
   - name: keywords
     content: openai chatgpt prompt-engineering
+  - property: og:url
+    content: https://mrepol742.github.io/blog/post/2023/12/29/mastering-the-art-best-practices-to-use-chatgpt/
+  - rel: canonical
+    href: https://mrepol742.github.io/blog/post/2023/12/29/mastering-the-art-best-practices-to-use-chatgpt/
 ---
 
-![OpenAI](/images/posts/openai.webp)
+![OpenAI](/blog/images/posts/openai.webp)
 
 The advent of OpenAI's ChatGPT has opened up new possibilities for natural language understanding and generation. As users harness the power of this advanced language model, it becomes crucial to employ best practices for optimal results. Whether you're a developer, content creator, or an enthusiast exploring ChatGPT, adhering to these best practices will enhance your experience and ensure effective utilization.
 

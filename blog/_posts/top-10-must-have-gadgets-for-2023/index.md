@@ -17,9 +17,13 @@ meta:
     content: mrepol742
   - name: keywords
     content: innovation technology gadgets
+  - property: og:url
+    content: https://mrepol742.github.io/blog/post/2023/12/29/top-10-must-have-gadgets-for-2023/
+  - rel: canonical
+    href: https://mrepol742.github.io/blog/post/2023/12/29/top-10-must-have-gadgets-for-2023/
 ---
 
-![Gadgets](/images/posts/gadgets.jpg)
+![Gadgets](/blog/images/posts/gadgets.jpg)
 
 As we stride into the future, the tech landscape is ablaze with innovation, offering a plethora of gadgets that promise to redefine our lives in 2023. For the avid tech enthusiasts eager to stay at the forefront of technology, we present the "Top 10 Must-Have Gadgets for 2023." Join us on this journey into the realm of cutting-edge technology.
 

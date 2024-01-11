@@ -17,9 +17,13 @@ meta:
     content: mrepol742
   - name: keywords
     content: openai ai technology
+  - property: og:url
+    content: https://mrepol742.github.io/blog/post/2023/12/29/openai-chatgpt-dell-revolutionizing-conversational-ai/
+  - rel: canonical
+    href: https://mrepol742.github.io/blog/post/2023/12/29/openai-chatgpt-dell-revolutionizing-conversational-ai/
 ---
 
-![OpenAI](/images/posts/openai.webp)
+![OpenAI](/blog/images/posts/openai.webp)
 
 In the dynamic landscape of artificial intelligence, the collaboration between OpenAI's ChatGPT and technology giant DELL marks a significant milestone. This synergy brings forth a powerful combination of cutting-edge language models and innovative hardware, promising to revolutionize the way we interact with AI. Let's delve into the exciting possibilities that emerge from the integration of OpenAI ChatGPT and DELL technologies.
 

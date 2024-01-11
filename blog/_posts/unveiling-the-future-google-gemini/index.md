@@ -17,9 +17,13 @@ meta:
     content: mrepol742
   - name: keywords
     content: google-gemini ai machine-learning
+  - property: og:url
+    content: https://mrepol742.github.io/blog/post/2023/12/29/unveiling-the-future-google-gemini/
+  - rel: canonical
+    href: https://mrepol742.github.io/blog/post/2023/12/29/unveiling-the-future-google-gemini/
 ---
 
-![Google Gemini](/images/posts/google-gemini.jpg)
+![Google Gemini](/blog/images/posts/google-gemini.jpg)
 
 In the ever-evolving realm of technology, Google has once again taken a bold step forward with the introduction of **Google Gemini**. This groundbreaking initiative is shrouded in anticipation and speculation, as enthusiasts and industry experts alike eagerly await the unfolding of Google's latest venture. Let's delve into what Google Gemini could mean for the future of technology and the digital landscape.
 

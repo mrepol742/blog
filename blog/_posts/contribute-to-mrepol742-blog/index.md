@@ -17,9 +17,13 @@ meta:
     content: mrepol742
   - name: keywords
     content: mrepol742 blog contribution
+  - property: og:url
+    content: https://mrepol742.github.io/blog/post/2024/01/02/contribute-to-mrepol742-blog/
+  - rel: canonical
+    href: https://mrepol742.github.io/blog/post/2024/01/02/contribute-to-mrepol742-blog/
 ---
 
-![mrepol742 @ blog](/images/posts/blog.gif)
+![mrepol742 @ blog](/blog/images/posts/blog.gif)
 
 Welcome to the world of blogging and open-source collaboration! If you're eager to share your insights, tips, or experiences with a broader audience, contributing to my mrepol742 @ blog Repository is a fantastic opportunity. In this blog post, we'll walk you through the steps to make your mark on this open-source project.
 
