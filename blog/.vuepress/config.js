@@ -156,7 +156,7 @@ module.exports = {
       comment: {
         service: 'disqus',
         shortname: 'mrepol742-blog',
-      },
+      }
     }]
   ]
 }
