@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: project-orion ai chatbot
   - property: og:url
-    content: https://mrepol742.github.io/blog/post/2024/03/26/open-source-chatbot-revolutionizing-facebook-messenger/
+    content: https://mrepol742.github.io/blog/open-source-chatbot-revolutionizing-facebook-messenger/
   - rel: canonical
-    href: https://mrepol742.github.io/blog/post/2024/03/26/open-source-chatbot-revolutionizing-facebook-messenger/
+    href: https://mrepol742.github.io/blog/open-source-chatbot-revolutionizing-facebook-messenger/
 ---
 
 In the ever-evolving landscape of conversational AI, accessibility and versatility are paramount. Today, we're proud to announce the release of Project Orion – an open-source chatbot framework designed to revolutionize the way developers create and deploy chatbots on the Facebook Messenger platform. With over 250 commands, seamless integration with multiple accounts, and per-thread preferences, Project Orion represents a leap forward in chatbot technology. Let's delve deeper into its groundbreaking features and the impact it's poised to make.

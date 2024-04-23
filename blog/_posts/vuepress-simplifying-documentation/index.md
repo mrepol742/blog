@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: vuepress documentation static
   - property: og:url
-    content: https://mrepol742.github.io/blog/post/2024/01/06/vuepress-simplifying-documentation/
+    content: https://mrepol742.github.io/blog/vuepress-simplifying-documentation/
   - rel: canonical
-    href: https://mrepol742.github.io/blog/post/2024/01/06/vuepress-simplifying-documentation/
+    href: https://mrepol742.github.io/blog/vuepress-simplifying-documentation/
 ---
 
 In the dynamic landscape of web development, having an efficient and user-friendly documentation system is paramount. **VuePress** emerges as a powerful tool tailored to meet the specific needs of documentation-centric projects. Let's explore the capabilities, features, and benefits that make VuePress a go-to solution for developers and content creators alike.

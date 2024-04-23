@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: openai ai technology
   - property: og:url
-    content: https://mrepol742.github.io/blog/post/2023/12/29/openai-chatgpt-dell-revolutionizing-conversational-ai/
+    content: https://mrepol742.github.io/blog/openai-chatgpt-dell-revolutionizing-conversational-ai/
   - rel: canonical
-    href: https://mrepol742.github.io/blog/post/2023/12/29/openai-chatgpt-dell-revolutionizing-conversational-ai/
+    href: https://mrepol742.github.io/blog/openai-chatgpt-dell-revolutionizing-conversational-ai/
 ---
 
 ![OpenAI](/blog/images/posts/openai.webp)

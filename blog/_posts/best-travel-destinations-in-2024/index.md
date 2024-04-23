@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: travel adventure explore
   - property: og:url
-    content: https://mrepol742.github.io/blog/post/2024/01/01/best-travel-destinations-in-2024/
+    content: https://mrepol742.github.io/blog/best-travel-destinations-in-2024/
   - rel: canonical
-    href: https://mrepol742.github.io/blog/post/2024/01/01/best-travel-destinations-in-2024/
+    href: https://mrepol742.github.io/blog/best-travel-destinations-in-2024/
 ---
 
 ![Travel](/blog/images/posts/travel.jpeg)

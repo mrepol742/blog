@@ -28,7 +28,8 @@ module.exports = {
     ['meta', { name: 'twitter:description', content: '' }],
 
     // Open Graph
-    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:type', content: 'article' }],
+    ['meta', { property: 'article:author', content: 'https://facebook.com/melvinjonesrepol' }],
    // ['meta', { property: 'og:url', content: 'https://mrepol742.github.io/blog' }],
     ['meta', { property: 'og:site_name', content: '@mrepol742 / blog' }],
     ['meta', { property: 'og:description', content: '' }],
@@ -74,20 +75,20 @@ module.exports = {
     smoothScroll: true,
     nav: [
       {
-        text: 'Post',
-        link: '/post/'
+        text: 'Tags',
+        link: '/tags/',
       },
       {
-        text: 'Tag',
-        link: '/tag/',
-      },
-      {
-        text: 'Author',
-        link: '/author/',
+        text: 'Authors',
+        link: '/authors/',
       },
       {
         text: 'About',
         link: '/about/',
+      },
+      {
+        text: 'Github',
+        link: 'https://github.com/mrepol742/blog',
       }
     ],
     searchPlaceholder: 'Search articles...',
@@ -131,20 +132,19 @@ module.exports = {
           id: 'post',
           dirname: '_posts',
           path: '/',
-          path: '/post/',
-          itemPermalink: '/post/:year/:month/:day/:slug',
+          itemPermalink: '/:slug',
         }
       ],
       frontmatters: [
         {
           id: 'tag',
           keys: ['tag', 'tags'],
-          path: '/tag/',
+          path: '/tags/',
         },
         {
           id: 'author',
           keys: ['author', 'authors'],
-          path: '/author/',
+          path: '/authors/',
         }
       ],
       sitemap: {
@@ -152,6 +152,10 @@ module.exports = {
       },
       feed: {
         canonical_base: 'https://mrepol742.github.io/blog/'
+      },
+      comment: {
+        service: 'disqus',
+        shortname: 'mrepol742-blog',
       },
     }]
   ]

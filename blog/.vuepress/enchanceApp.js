@@ -1,9 +1,9 @@
 export default ({
-    Vue,
-    options,
-    router,
-    siteData,
-    isServer
-  }) => {
-    
-  }
+  Vue,
+  options,
+  router,
+  siteData,
+  isServer
+}) => {
+
+}

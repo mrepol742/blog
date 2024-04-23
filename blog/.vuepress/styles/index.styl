@@ -87,7 +87,10 @@ hr, .header-anchor, .vssue-header-powered-by {
   height: 100px;
   padding-left: 7%;
   padding-right: 7%;
-  text-transform: uppercase;
+}
+
+.header-wrapper .title {
+  text-transform: none;
 }
 
 .header-wrapper {
@@ -157,12 +160,8 @@ a[data-v-6e4eacc1]:after {
   border-left: 5px solid rgba(0,0,0,0.08);
 }
 
-.content__default pre, .content__default pre[class*="language-"] {
-  background: #ffa31a !important;
-}
-
-.content__default pre code, .content__default pre[class*="language-"] code {
-  color: #000 !important;
+div[class*="language-"] {
+  background: #212121;
 }
 
 .pagination > li > a {

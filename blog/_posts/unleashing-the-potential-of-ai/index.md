@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: openai technology ai
   - property: og:url
-    content: https://mrepol742.github.io/blog/post/2024/01/22/unleashing-the-potential-of-ai/
+    content: https://mrepol742.github.io/blog/unleashing-the-potential-of-ai/
   - rel: canonical
-    href: https://mrepol742.github.io/blog/post/2024/01/22/unleashing-the-potential-of-ai/
+    href: https://mrepol742.github.io/blog/unleashing-the-potential-of-ai/
 ---
 
 ![OpenAI](/blog/images/posts/openai.webp)

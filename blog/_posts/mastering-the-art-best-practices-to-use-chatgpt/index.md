@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: openai chatgpt prompt-engineering
   - property: og:url
-    content: https://mrepol742.github.io/blog/post/2023/12/29/mastering-the-art-best-practices-to-use-chatgpt/
+    content: https://mrepol742.github.io/blog/mastering-the-art-best-practices-to-use-chatgpt/
   - rel: canonical
-    href: https://mrepol742.github.io/blog/post/2023/12/29/mastering-the-art-best-practices-to-use-chatgpt/
+    href: https://mrepol742.github.io/blog/mastering-the-art-best-practices-to-use-chatgpt/
 ---
 
 ![OpenAI](/blog/images/posts/openai.webp)

@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: webvium browser android-browser
   - property: og:url
-    content: https://mrepol742.github.io/blog/post/2024/01/22/webvium-lightweight-fast-and-secured-web-browser/
+    content: https://mrepol742.github.io/blog/webvium-lightweight-fast-and-secured-web-browser/
   - rel: canonical
-    href: https://mrepol742.github.io/blog/post/2024/01/22/webvium-lightweight-fast-and-secured-web-browser/
+    href: https://mrepol742.github.io/blog/webvium-lightweight-fast-and-secured-web-browser/
 ---
 
 
