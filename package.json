@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "homepage": "https://mrepol742.github.io/blog/",
+  "homepage": "https://mrepol742-blog.vercel.app",
   "authors": {
     "name": "Melvin Jones Repol",
     "email": "mrepol742@gmail.com",
@@ -19,8 +19,7 @@
   },
   "scripts": {
     "dev": "vuepress dev blog",
-    "build": "vuepress build blog",
-    "build-git": "export VUEPRESS_BASE=/blog/ && set VUEPRESS_BASE=/blog/  && vuepress build blog"
+    "build": "vuepress build blog"
   },
   "license": "MIT",
   "dependencies": {

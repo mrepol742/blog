@@ -1,7 +1,7 @@
 const { name, description, authors } = require('../../package')
 
 module.exports = {
-  base: process.env.VUEPRESS_BASE || '/',
+  base: '/',
   title: name,
   theme: '@vuepress/theme-blog',
   description: description,
@@ -21,7 +21,7 @@ module.exports = {
 
     // Twitter
     ['meta', { name: 'twitter:site', content: '@mrepol742' }],
-    ['meta', { name: 'twitter:domain', content: 'mrepol742.github.io' }],
+    ['meta', { name: 'twitter:domain', content: 'mrepol742-blog.vercel.app' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:image:src', content: '/images/cover.png' }],
     ['meta', { name: 'twitter:image:alt', content: 'mrepol742 @ blog cover' }],
@@ -65,7 +65,7 @@ module.exports = {
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
     ['meta', { 'http-equiv': 'X-UA-Compatible', content: 'IE=edge' }],
     ['meta', { charset: 'utf-8' }],
-    ['meta', { name: 'hostname', content: 'mrepol742.github.io' }],
+    ['meta', { name: 'hostname', content: 'mrepol742-blog.vercel.app' }],
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' }],
     ['meta', { name: 'theme-color', content: '#4285f4' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
@@ -99,7 +99,7 @@ module.exports = {
           link: 'https://mrepol742.github.io/privacypolicy',
         },
         {
-          text: 'MIT Licensed | Copyright © 2023 mrepol742',
+          text: 'MIT Licensed | Copyright © 2025 mrepol742',
         },
       ],
       contact: [
@@ -151,7 +151,7 @@ module.exports = {
         hostname: authors.url
       },
       feed: {
-        canonical_base: 'https://mrepol742.github.io/blog/'
+        canonical_base: 'https://mrepol742-blog.vercel.app',
       },
       comment: {
         service: 'disqus',
