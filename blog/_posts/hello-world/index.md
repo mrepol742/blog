@@ -14,9 +14,9 @@ meta:
   - name: keywords
     content: helloworld
   - property: og:url
-    content: https://mrepol742.github.io/blog/hello-world/
+    content: https://mrepol742-blog.vercel.app/hello-world/
   - rel: canonical
-    href: https://mrepol742.github.io/blog/hello-world/
+    href: https://mrepol742-blog.vercel.app/hello-world/
 ---
 
 ```java

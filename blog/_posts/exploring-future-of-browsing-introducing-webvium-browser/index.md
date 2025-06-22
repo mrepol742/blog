@@ -19,9 +19,9 @@ meta:
   - name: keywords
     content: webvium lightweight-browser android-browser
   - property: og:url
-    content: https://mrepol742.github.io/blog/exploring-future-of-browsing-introducing-webvium-browser/
+    content: https://mrepol742-blog.vercel.app/exploring-future-of-browsing-introducing-webvium-browser/
   - rel: canonical
-    href: https://mrepol742.github.io/blog/exploring-future-of-browsing-introducing-webvium-browser/
+    href: https://mrepol742-blog.vercel.app/exploring-future-of-browsing-introducing-webvium-browser/
 ---
 
 ![Webvium Browser](/blog/images/posts/webvium.jpeg)

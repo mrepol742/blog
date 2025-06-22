@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: google-gemini ai machine-learning
   - property: og:url
-    content: https://mrepol742.github.io/blog/unveiling-the-future-google-gemini/
+    content: https://mrepol742-blog.vercel.app/unveiling-the-future-google-gemini/
   - rel: canonical
-    href: https://mrepol742.github.io/blog/unveiling-the-future-google-gemini/
+    href: https://mrepol742-blog.vercel.app/unveiling-the-future-google-gemini/
 ---
 
 ![Google Gemini](/blog/images/posts/google-gemini.jpg)

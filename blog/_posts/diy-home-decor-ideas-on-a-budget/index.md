@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: doityourself decor creativity
   - property: og:url
-    content: https://mrepol742.github.io/blog/diy-home-decor-ideas-on-a-budget/
+    content: https://mrepol742-blog.vercel.app/diy-home-decor-ideas-on-a-budget/
   - rel: canonical
-    href: https://mrepol742.github.io/blog/diy-home-decor-ideas-on-a-budget/
+    href: https://mrepol742-blog.vercel.app/diy-home-decor-ideas-on-a-budget/
 ---
 
 Decorating your home doesn't have to break the bank. With a dash of creativity and a sprinkle of resourcefulness, you can transform your living space into a haven of style without draining your wallet. In this guide, we'll explore some budget-friendly DIY home decor ideas that will breathe new life into your surroundings.

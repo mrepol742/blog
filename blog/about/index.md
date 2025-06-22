@@ -11,9 +11,9 @@ meta:
   - name: author
     content: mrepol742
   - property: og:url
-    content: https://mrepol742.github.io/blog/about/
+    content: https://mrepol742-blog.vercel.app/about/
   - rel: canonical
-    href: https://mrepol742.github.io/blog/about/
+    href: https://mrepol742-blog.vercel.app/about/
 ---
 
 

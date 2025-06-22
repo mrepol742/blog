@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: mrepol742 blog contribution
   - property: og:url
-    content: https://mrepol742.github.io/blog/contribute-to-mrepol742-blog/
+    content: https://mrepol742-blog.vercel.app/contribute-to-mrepol742-blog/
   - rel: canonical
-    href: https://mrepol742.github.io/blog/contribute-to-mrepol742-blog/
+    href: https://mrepol742-blog.vercel.app/contribute-to-mrepol742-blog/
 ---
 
 ![mrepol742 @ blog](/blog/images/posts/blog.gif)

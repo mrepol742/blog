@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: vuepress blog static
   - property: og:url
-    content: https://mrepol742.github.io/blog/building-a-blog-with-vuepress/
+    content: https://mrepol742-blog.vercel.app/building-a-blog-with-vuepress/
   - rel: canonical
-    href: https://mrepol742.github.io/blog/building-a-blog-with-vuepress/
+    href: https://mrepol742-blog.vercel.app/building-a-blog-with-vuepress/
 ---
 
 
