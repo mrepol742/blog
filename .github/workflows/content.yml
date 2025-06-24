@@ -1,0 +1,78 @@
+name: Content Generation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  models: read
+
+jobs:
+  content-generation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.API_TOKEN_GITHUB }}
+      - name: Generate Blog Post
+        env:
+          GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+        run: |
+          # curl -H "Authorization: Bearer $GITHUB_TOKEN" \
+          #     https://models.github.ai/catalog/models
+          RESPONSE=$(curl "https://models.github.ai/inference/chat/completions" \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            -d "{\"messages\": [{\"role\": \"user\", \"content\": \"Write a detailed, blog post on a different coding topic, tip and tricks, optimization, performance, software development, capstone, web development, programming languages, and other technical related fields. Output in JSON using this structure { title: '  ', tags: [], content: '  '}\"}], \"model\": \"openai/gpt-4.1\"}"
+          )
+          MESSAGE=$(node -pe 'JSON.parse(process.argv[1]).choices[0].message.content' "$RESPONSE")
+          TITLE=$(node -pe 'JSON.parse(process.argv[1]).title' "$MESSAGE")
+          SLUG=$(echo "$TITLE" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9 ]//g' | tr ' ' '-')
+          CONTENT=$(node -pe 'JSON.parse(process.argv[1]).content' "$MESSAGE")
+
+          mkdir blog/_posts/$SLUG
+          cd blog/_posts/$SLUG
+          
+          {
+          echo "---"
+          echo "title: $TITLE"
+          echo "date: $(date +%F)"
+          echo "author: mrepol742"
+          echo "tags:"
+          node -e 'JSON.parse(process.argv[1]).tags.forEach(tag => console.log("  - " + tag))' "$MESSAGE"
+          echo "meta:"
+          echo "  - name: twitter:creator"
+          echo "    content: '@mrepol742'"
+          echo "  - name: twitter:title"
+          echo "    content: $TITLE"
+          echo "  - property: og:title"
+          echo "    content: $TITLE"
+          echo "  - name: author"
+          echo "    content: mrepol742"
+          echo "  - name: keywords"
+          echo "    content: $(node -pe 'JSON.parse(process.argv[1]).tags.join(", ")' "$MESSAGE")"
+          echo "  - property: og:url"
+          echo "    content: https://mrepol742-blog.vercel.app/$SLUG/"
+          echo "  - rel: canonical"
+          echo "    href: https://mrepol742-blog.vercel.app/$SLUG/"
+          echo "---"
+          } > index.md
+
+          echo "$CONTENT" >> index.md
+
+          cat index.md
+          
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push
+        run: |
+          git add .
+          git commit -m "Add new blog post: $TITLE" || echo "No changes to commit"
+          git push origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
