@@ -49,6 +49,15 @@ module.exports = {
     [
       "script async",
       {
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5077097159223655",
+        crossorigin: "anonymous",
+      },
+    ],
+
+    // Google Tag Manager
+    [
+      "script async",
+      {
         src: "https://www.googletagmanager.com/gtag/js?id=G-0T7201Q3PZ",
       },
     ],
