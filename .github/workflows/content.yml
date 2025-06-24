@@ -28,7 +28,7 @@ jobs:
             -d "{\"messages\": [{\"role\": \"user\", \"content\": \"Write a detailed, blog post on a different coding topics like performance optimization, code quality, scalable architecture, development workflow enhancements, debugging strategies, or modern programming paradigms. Output in JSON using this structure { title: '  ', tags: [], content: '  '}\"}], \"model\": \"openai/gpt-4.1\"}"
           )
           MESSAGE=$(node -pe 'JSON.parse(process.argv[1]).choices[0].message.content' "$RESPONSE")
-          TITLE=$(node -pe 'JSON.parse(process.argv[1]).title' "$MESSAGE")
+          TITLE=$(node -pe 'JSON.parse(process.argv[1]).title' "$MESSAGE" | sed 's/:/-/g')
           SLUG=$(echo "$TITLE" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9 ]//g' | tr ' ' '-')
           CONTENT=$(node -pe 'JSON.parse(process.argv[1]).content' "$MESSAGE")
 
@@ -58,6 +58,7 @@ jobs:
           echo "  - rel: canonical"
           echo "    href: https://mrepol742-blog.vercel.app/$SLUG/"
           echo "---"
+          echo ""
           } > index.md
 
           echo "$CONTENT" >> index.md

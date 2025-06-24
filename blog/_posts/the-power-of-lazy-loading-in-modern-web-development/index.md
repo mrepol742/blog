@@ -25,6 +25,7 @@ meta:
   - rel: canonical
     href: https://mrepol742-blog.vercel.app/the-power-of-lazy-loading-in-modern-web-development/
 ---
+
 ### Introduction
 
 In our fast-paced, visually rich web ecosystem, delivering fast and seamless experiences is paramount. Whether you're building a single-page application or a content-heavy static site, optimizing loading strategies can make or break the user experience. One technique gaining traction in modern web development is **lazy loading**. Let's break down what it is, why it matters, and how you can implement it in your projects.
