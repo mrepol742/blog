@@ -106,11 +106,15 @@ module.exports = {
     nav: [
       {
         text: "Tags",
-        link: "/tags/",
+        link: "/tag/",
       },
       {
         text: "Authors",
         link: "/authors/",
+      },
+      {
+        text: "Random",
+        link: "/random/",
       },
       {
         text: "About",
@@ -121,15 +125,23 @@ module.exports = {
         link: "https://github.com/mrepol742/blog",
       },
     ],
-    searchPlaceholder: "Search articles...",
+    searchPlaceholder: "Search post...",
     footer: {
       copyright: [
         {
-          text: "Privacy Policy",
-          link: "https://mrepol742.github.io/privacypolicy",
+          text: "Terms",
+          link: "/terms",
         },
         {
-          text: "MIT Licensed | Copyright © 2025 mrepol742",
+          text: "Privacy",
+          link: "/privacy",
+        },
+        {
+          text: "MIT License",
+          link: "https://raw.githubusercontent.com/mrepol742/blog/refs/heads/master/LICENSE",
+        },
+        {
+          text: "Copyright © 2025 mrepol742",
         },
       ],
       contact: [
@@ -171,7 +183,7 @@ module.exports = {
           {
             id: "tag",
             keys: ["tag", "tags"],
-            path: "/tags/",
+            path: "/tag/",
           },
           {
             id: "author",

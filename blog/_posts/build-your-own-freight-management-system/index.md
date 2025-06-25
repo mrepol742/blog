@@ -3,10 +3,10 @@ title: Build Your Own Freight Management System with Axleshift Core 1
 date: 2025-06-22
 author: mrepol742
 tags:
-  - freight_management_system
-  - management_system
+  - frieght management system
+  - management system
   - system
-  - open_source
+  - open source
   - github
 meta:
   - name: twitter:creator
