@@ -130,11 +130,11 @@ module.exports = {
       copyright: [
         {
           text: "Terms",
-          link: "/terms",
+          link: "/terms/",
         },
         {
           text: "Privacy",
-          link: "/privacy",
+          link: "/privacy/",
         },
         {
           text: "MIT License",
