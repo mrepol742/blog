@@ -6,21 +6,21 @@ module.exports = {
   theme: "@vuepress/theme-blog",
   description: description,
   head: [
-    [
-      "script",
-      {
-        "data-name": "BMC-Widget",
-        "data-cfasync": false,
-        src: "https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js",
-        "data-id": "mrepol742",
-        "data-description": "Support me on Buy me a coffee!",
-        "data-message": "",
-        "data-color": "#5F7FFF",
-        "data-position": "Right",
-        "data-x_margin": "18",
-        "data-y_margin": "18",
-      },
-    ],
+    // [
+    //   "script",
+    //   {
+    //     "data-name": "BMC-Widget",
+    //     "data-cfasync": false,
+    //     src: "https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js",
+    //     "data-id": "mrepol742",
+    //     "data-description": "Support me on Buy me a coffee!",
+    //     "data-message": "",
+    //     "data-color": "#5F7FFF",
+    //     "data-position": "Right",
+    //     "data-x_margin": "18",
+    //     "data-y_margin": "18",
+    //   },
+    // ],
 
     // Twitter
     ["meta", { name: "twitter:site", content: "@mrepol742" }],
@@ -120,12 +120,8 @@ module.exports = {
         text: "About",
         link: "/about/",
       },
-      {
-        text: "Github",
-        link: "https://github.com/mrepol742/blog",
-      },
     ],
-    searchPlaceholder: "Search post...",
+    searchPlaceholder: "Search post, tag, content...",
     footer: {
       copyright: [
         {
@@ -203,5 +199,7 @@ module.exports = {
         },
       },
     ],
+    ["@vuepress/back-to-top"],
+    ["@vuepress/last-updated"],
   ],
 };

@@ -18,11 +18,12 @@
     "email": "mrepol742@gmail.com"
   },
   "scripts": {
-    "dev": "vuepress dev blog",
+    "start": "vuepress dev blog",
     "build": "vuepress build blog"
   },
   "license": "MIT",
   "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.10",
     "@vuepress/plugin-blog": "^1.9.4",
     "@vuepress/theme-blog": "^2.3.3",
     "vuepress": "^1.9.10"
