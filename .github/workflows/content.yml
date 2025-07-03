@@ -28,19 +28,19 @@ jobs:
 
           DAY=$(date +%u)
           if [ "$DAY" -eq 1 ]; then
-            PROMPT="Write a detailed blog post about a technology topic (e.g., programming languages, frameworks, tools, or best practices). Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
+            PROMPT="Write a detailed blog post about a technology topic (e.g., programming languages, frameworks, tools, or best practices) in markdown. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
           elif [ "$DAY" -eq 2 ]; then
-            PROMPT="Write a detailed blog post about a business topic (e.g., startups, entrepreneurship, management, or productivity). Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
+            PROMPT="Write a detailed blog post about a business topic (e.g., startups, entrepreneurship, management, or productivity) in markdown. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
           elif [ "$DAY" -eq 3 ]; then
-            PROMPT="Write a detailed blog post about a cryptocurrency topic (e.g., blockchain, DeFi, NFTs, or crypto trends). Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
+            PROMPT="Write a detailed blog post about a cryptocurrency topic (e.g., blockchain, DeFi, NFTs, or crypto trends) in markdown. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
           elif [ "$DAY" -eq 4 ]; then
-            PROMPT="Write a detailed blog post about software architecture or scalable systems. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
+            PROMPT="Write a detailed blog post about software architecture or scalable systems in markdown. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
           elif [ "$DAY" -eq 5 ]; then
-            PROMPT="Write a detailed blog post about debugging strategies or code quality improvements. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
+            PROMPT="Write a detailed blog post about debugging strategies or code quality improvements in markdown. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
           elif [ "$DAY" -eq 6 ]; then
-            PROMPT="Write a detailed blog post about modern programming paradigms or workflow enhancements. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
+            PROMPT="Write a detailed blog post about modern programming paradigms or workflow enhancements in markdown. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
           else
-            PROMPT="Write a detailed blog post about any trending topic in software engineering. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
+            PROMPT="Write a detailed blog post about any trending topic in software engineering in markdown. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
           fi
 
           RESPONSE=$(curl "https://models.github.ai/inference/chat/completions" \
