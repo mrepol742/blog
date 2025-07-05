@@ -2,7 +2,10 @@ name: Content Generation
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # everyday at midnight
+    # - cron: '0 0 * * 1' # every Monday at midnight
+    # - cron: '0 0 * * 3' # every Wednesday at midnight
+    # - cron: '0 0 * * 0' # every Sunday at midnight
   workflow_dispatch:
 
 permissions:
@@ -22,11 +25,29 @@ jobs:
         run: |
           # curl -H "Authorization: Bearer $GITHUB_TOKEN" \
           #     https://models.github.ai/catalog/models
+
+          DAY=$(date +%u)
+          if [ "$DAY" -eq 1 ]; then
+            PROMPT="Write a detailed blog post about a technology topic (e.g., programming languages, frameworks, tools, or best practices) in markdown. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
+          elif [ "$DAY" -eq 2 ]; then
+            PROMPT="Write a detailed blog post about a business topic (e.g., startups, entrepreneurship, management, or productivity) in markdown. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
+          elif [ "$DAY" -eq 3 ]; then
+            PROMPT="Write a detailed blog post about a cryptocurrency topic (e.g., blockchain, DeFi, NFTs, or crypto trends) in markdown. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
+          elif [ "$DAY" -eq 4 ]; then
+            PROMPT="Write a detailed blog post about software architecture or scalable systems in markdown. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
+          elif [ "$DAY" -eq 5 ]; then
+            PROMPT="Write a detailed blog post about debugging strategies or code quality improvements in markdown. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
+          elif [ "$DAY" -eq 6 ]; then
+            PROMPT="Write a detailed blog post about modern programming paradigms or workflow enhancements in markdown. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
+          else
+            PROMPT="Write a detailed blog post about any trending topic in software engineering in markdown. Output in JSON using this structure { title: '  ', tags: [], content: '  '}"
+          fi
+
           RESPONSE=$(curl "https://models.github.ai/inference/chat/completions" \
-            -H "Content-Type: application/json" \
-            -H "Authorization: Bearer $GITHUB_TOKEN" \
-            -d "{\"messages\": [{\"role\": \"user\", \"content\": \"Write a detailed, blog post on a different coding topics like performance optimization, code quality, scalable architecture, development workflow enhancements, debugging strategies, or modern programming paradigms. Output in JSON using this structure { title: '  ', tags: [], content: '  '}\"}], \"model\": \"openai/gpt-4.1\"}"
-          )
+                      -H "Content-Type: application/json" \
+                      -H "Authorization: Bearer $GITHUB_TOKEN" \
+                      -d "{\"messages\": [{\"role\": \"user\", \"content\": \"$PROMPT\"}], \"model\": \"openai/gpt-4.1\"}"
+                    )
           MESSAGE=$(node -pe 'JSON.parse(process.argv[1]).choices[0].message.content' "$RESPONSE")
           TITLE=$(node -pe 'JSON.parse(process.argv[1]).title' "$MESSAGE" | sed 's/:/-/g')
           SLUG=$(echo "$TITLE" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9 ]//g' | tr ' ' '-')
@@ -62,6 +83,7 @@ jobs:
           } > index.md
 
           echo "$CONTENT" >> index.md
+          echo "$TITLE" > /tmp/generated_blog_title.txt
 
           cat index.md
           
@@ -72,6 +94,7 @@ jobs:
 
       - name: Commit and push
         run: |
+          TITLE=$(cat /tmp/generated_blog_title.txt)
           git add .
           git commit -m "Add new blog post: $TITLE" || echo "No changes to commit"
           git push origin master

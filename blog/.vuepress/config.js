@@ -6,21 +6,21 @@ module.exports = {
   theme: "@vuepress/theme-blog",
   description: description,
   head: [
-    [
-      "script",
-      {
-        "data-name": "BMC-Widget",
-        "data-cfasync": false,
-        src: "https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js",
-        "data-id": "mrepol742",
-        "data-description": "Support me on Buy me a coffee!",
-        "data-message": "",
-        "data-color": "#5F7FFF",
-        "data-position": "Right",
-        "data-x_margin": "18",
-        "data-y_margin": "18",
-      },
-    ],
+    // [
+    //   "script",
+    //   {
+    //     "data-name": "BMC-Widget",
+    //     "data-cfasync": false,
+    //     src: "https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js",
+    //     "data-id": "mrepol742",
+    //     "data-description": "Support me on Buy me a coffee!",
+    //     "data-message": "",
+    //     "data-color": "#5F7FFF",
+    //     "data-position": "Right",
+    //     "data-x_margin": "18",
+    //     "data-y_margin": "18",
+    //   },
+    // ],
 
     // Twitter
     ["meta", { name: "twitter:site", content: "@mrepol742" }],
@@ -106,30 +106,38 @@ module.exports = {
     nav: [
       {
         text: "Tags",
-        link: "/tags/",
+        link: "/tag/",
       },
       {
         text: "Authors",
         link: "/authors/",
       },
       {
+        text: "Random",
+        link: "/random/",
+      },
+      {
         text: "About",
         link: "/about/",
       },
-      {
-        text: "Github",
-        link: "https://github.com/mrepol742/blog",
-      },
     ],
-    searchPlaceholder: "Search articles...",
+    searchPlaceholder: "Search post, tag, content...",
     footer: {
       copyright: [
         {
-          text: "Privacy Policy",
-          link: "https://mrepol742.github.io/privacypolicy",
+          text: "Terms",
+          link: "/terms/",
         },
         {
-          text: "MIT Licensed | Copyright © 2025 mrepol742",
+          text: "Privacy",
+          link: "/privacy/",
+        },
+        {
+          text: "MIT License",
+          link: "https://raw.githubusercontent.com/mrepol742/blog/refs/heads/master/LICENSE",
+        },
+        {
+          text: "Copyright © 2025 mrepol742",
         },
       ],
       contact: [
@@ -173,7 +181,7 @@ module.exports = {
           {
             id: "tag",
             keys: ["tag", "tags"],
-            path: "/tags/",
+            path: "/tag/",
           },
           {
             id: "author",
@@ -193,5 +201,7 @@ module.exports = {
         },
       },
     ],
+    ["@vuepress/back-to-top"],
+    ["@vuepress/last-updated"],
   ],
 };
