@@ -164,6 +164,8 @@ module.exports = {
             id: "post",
             dirname: "_posts",
             path: "/",
+            layout: "Layout",
+            itemLayout: "Layout",
             itemPermalink: "/:slug",
           },
         ],
