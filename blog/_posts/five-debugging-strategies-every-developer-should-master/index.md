@@ -4,10 +4,10 @@ date: 2025-06-30
 author: mrepol742
 tags:
   - debugging
-  - development workflow
-  - best practices
-  - problem solving
-  - software engineering
+  - development-workflow
+  - best-practices
+  - problem-solving
+  - software-engineering
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -18,7 +18,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: debugging, development workflow, best practices, problem solving, software engineering
+    content: debugging, development-workflow, best-practices, problem-solving, software-engineering
   - property: og:url
     content: https://mrepol742-blog.vercel.app/five-debugging-strategies-every-developer-should-master/
   - rel: canonical

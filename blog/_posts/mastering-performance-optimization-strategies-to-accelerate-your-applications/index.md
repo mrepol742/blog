@@ -3,8 +3,8 @@ title: Mastering Performance Optimization- Strategies to Accelerate Your Applica
 date: 2025-06-29
 author: mrepol742
 tags:
-  - performance optimization
-  - coding best practices
+  - performance-optimization
+  - coding-best-practices
   - backend
   - frontend
   - profiling
@@ -19,7 +19,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: performance optimization, coding best practices, backend, frontend, profiling, refactoring
+    content: performance-optimization, coding-best-practices, backend, frontend, profiling, refactoring
   - property: og:url
     content: https://mrepol742-blog.vercel.app/mastering-performance-optimization-strategies-to-accelerate-your-applications/
   - rel: canonical

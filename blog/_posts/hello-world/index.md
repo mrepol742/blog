@@ -2,6 +2,9 @@
 title: Hello World - The Genesis
 date: 2024-04-23
 author: mrepol742
+tags:
+  - hello-world
+  - programming
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -12,7 +15,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: helloworld
+    content: hello-world programming
   - property: og:url
     content: https://mrepol742-blog.vercel.app/hello-world/
   - rel: canonical

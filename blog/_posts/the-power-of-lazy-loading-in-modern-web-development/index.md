@@ -3,12 +3,12 @@ title: The Power of Lazy Loading in Modern Web Development
 date: 2025-06-24
 author: mrepol742
 tags:
-  - web development
+  - web-development
   - performance
   - optimization
   - JavaScript
   - frontend
-  - best practices
+  - best-practices
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -19,7 +19,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: web development, performance, optimization, JavaScript, frontend, best practices
+    content: web-development, performance, optimization, JavaScript, frontend, best-practices
   - property: og:url
     content: https://mrepol742-blog.vercel.app/the-power-of-lazy-loading-in-modern-web-development/
   - rel: canonical

@@ -5,9 +5,9 @@ author: mrepol742
 tags:
   - performance
   - optimization
-  - best practices
-  - code quality
-  - software engineering
+  - best-practices
+  - code-quality
+  - software-engineering
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -18,7 +18,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: performance, optimization, best practices, code quality, software engineering
+    content: performance, optimization, best-practices, code-quality, software-engineering
   - property: og:url
     content: https://mrepol742-blog.vercel.app/unleashing-performance-eight-actionable-strategies-to-optimize-your-code/
   - rel: canonical

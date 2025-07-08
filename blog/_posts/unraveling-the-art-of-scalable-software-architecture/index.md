@@ -5,9 +5,9 @@ author: mrepol742
 tags:
   - architecture
   - scalability
-  - system design
+  - system-design
   - microservices
-  - best practices
+  - best-practices
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -18,7 +18,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: architecture, scalability, system design, microservices, best practices
+    content: architecture, scalability, system-design, microservices, best-practices
   - property: og:url
     content: https://mrepol742-blog.vercel.app/unraveling-the-art-of-scalable-software-architecture/
   - rel: canonical

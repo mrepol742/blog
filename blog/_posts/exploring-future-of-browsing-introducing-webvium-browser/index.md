@@ -5,8 +5,8 @@ author: mrepol742
 location: Rizal
 tags:
   - webvium
-  - lightweight browser
-  - android browser
+  - lightweight-browser
+  - android-browser
 meta:
   - name: twitter:creator
     content: '@mrepol742'

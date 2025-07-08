@@ -3,9 +3,9 @@ title: Unveiling the Future - Google Gemini
 date: 2023-12-29
 author: mrepol742
 tags:
-  - google gemini
+  - google-gemini
   - ai
-  - machine learning
+  - machine-learning
 meta:
   - name: twitter:creator
     content: '@mrepol742'

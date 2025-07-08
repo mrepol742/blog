@@ -5,7 +5,7 @@ author: mrepol742
 tags:
   - openai
   - chatgpt
-  - prompt engineering
+  - prompt-engineering
 meta:
   - name: twitter:creator
     content: '@mrepol742'

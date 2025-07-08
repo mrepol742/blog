@@ -4,10 +4,10 @@ date: 2025-06-26
 author: mrepol742
 tags:
   - performance
-  - code quality
-  - programming paradigms
+  - code-quality
+  - programming-paradigms
   - immutability
-  - best practices
+  - best-practices
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -18,7 +18,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: performance, code quality, programming paradigms, immutability, best practices
+    content: performance, code-quality, programming-paradigms, immutability, best-practices
   - property: og:url
     content: https://mrepol742-blog.vercel.app/harnessing-the-power-of-immutable-data-structures-for-efficient-predictable-code/
   - rel: canonical

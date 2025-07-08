@@ -3,10 +3,10 @@ title: Building Scalable Systems- Principles of Robust Software Architecture
 date: 2025-07-03
 author: mrepol742
 tags:
-  - software architecture
+  - software-architecture
   - scalability
-  - system design
-  - distributed systems
+  - system-design
+  - distributed-systems
   - microservices
 meta:
   - name: twitter:creator
@@ -18,7 +18,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: software architecture, scalability, system design, distributed systems, microservices
+    content: software-architecture, scalability, system-design, distributed-systems, microservices
   - property: og:url
     content: https://mrepol742-blog.vercel.app/building-scalable-systems-principles-of-robust-software-architecture/
   - rel: canonical

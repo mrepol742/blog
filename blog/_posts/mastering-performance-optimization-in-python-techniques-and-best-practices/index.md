@@ -3,11 +3,11 @@ title: Mastering Performance Optimization in Python- Techniques and Best Practic
 date: 2025-07-02
 author: mrepol742
 tags:
-  - performance optimization
+  - performance-optimization
   - python
   - profiling
-  - best practices
-  - code efficiency
+  - best-practices
+  - code-efficiency
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -18,7 +18,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: performance optimization, python, profiling, best practices, code efficiency
+    content: performance-optimization, python, profiling, best-practices, code-efficiency
   - property: og:url
     content: https://mrepol742-blog.vercel.app/mastering-performance-optimization-in-python-techniques-and-best-practices/
   - rel: canonical

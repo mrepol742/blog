@@ -5,7 +5,7 @@ author: mrepol742
 tags:
   - webvium
   - browser
-  - android browser
+  - android-browser
 meta:
   - name: twitter:creator
     content: '@mrepol742'

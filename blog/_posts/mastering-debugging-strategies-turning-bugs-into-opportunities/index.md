@@ -5,9 +5,9 @@ author: mrepol742
 tags:
   - debugging
   - productivity
-  - coding best practices
-  - software development
-  - error handling
+  - coding-best-practices
+  - software-development
+  - error-handling
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -18,7 +18,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: debugging, productivity, coding best practices, software development, error handling
+    content: debugging, productivity, coding-best-practices, software-development, error-handling
   - property: og:url
     content: https://mrepol742-blog.vercel.app/mastering-debugging-strategies-turning-bugs-into-opportunities/
   - rel: canonical

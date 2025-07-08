@@ -5,9 +5,9 @@ author: mrepol742
 tags:
   - workflow
   - productivity
-  - development tools
+  - development-tools
   - automation
-  - CI/CD
+  - ci-cd
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -18,7 +18,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: workflow, productivity, development tools, automation, CI/CD
+    content: workflow, productivity, development-tools, automation, ci-cd
   - property: og:url
     content: https://mrepol742-blog.vercel.app/development-workflow-enhancements-supercharging-your-productivity/
   - rel: canonical

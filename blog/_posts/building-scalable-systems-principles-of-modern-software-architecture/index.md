@@ -3,11 +3,11 @@ title: Building Scalable Systems- Principles of Modern Software Architecture
 date: 2025-07-03
 author: mrepol742
 tags:
-  - software architecture
-  - scalable systems
+  - software-architecture
+  - scalable-systems
   - cloud
   - microservices
-  - distributed systems
+  - distributed-systems
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -18,7 +18,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: software architecture, scalable systems, cloud, microservices, distributed systems
+    content: software-architecture, scalable-systems, cloud, microservices, distributed-systems
   - property: og:url
     content: https://mrepol742-blog.vercel.app/building-scalable-systems-principles-of-modern-software-architecture/
   - rel: canonical

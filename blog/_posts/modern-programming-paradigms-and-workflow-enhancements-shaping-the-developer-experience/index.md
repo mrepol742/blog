@@ -3,10 +3,10 @@ title: Modern Programming Paradigms and Workflow Enhancements- Shaping the Devel
 date: 2025-07-05
 author: mrepol742
 tags:
-  - programming paradigms
+  - programming-paradigms
   - workflow
-  - best practices
-  - software development
+  - best-practices
+  - software-development
   - automation
 meta:
   - name: twitter:creator
@@ -18,7 +18,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: programming paradigms, workflow, best practices, software development, automation
+    content: programming-paradigms, workflow, best-practices, software-development, automation
   - property: og:url
     content: https://mrepol742-blog.vercel.app/modern-programming-paradigms-and-workflow-enhancements-shaping-the-developer-experience/
   - rel: canonical

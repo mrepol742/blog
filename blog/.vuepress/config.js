@@ -105,6 +105,30 @@ module.exports = {
     smoothScroll: true,
     nav: [
       {
+        text: "Debugging",
+        link: "/tag/debugging/",
+      },
+      {
+        text: "Software Arch",
+        link: "/tag/software-architecture/",
+      },
+      {
+        text: "Cryptocurrency",
+        link: "/tag/cryptocurrency/",
+      },
+      {
+        text: "Code Quality",
+        link: "/tag/cryptocurrency/",
+      },
+      {
+        text: "Open Source",
+        link: "/tag/open-source/",
+      },
+      {
+        text: "AI",
+        link: "/tag/ai/",
+      },
+      {
         text: "Tags",
         link: "/tag/",
       },
@@ -116,14 +140,14 @@ module.exports = {
         text: "Random",
         link: "/random/",
       },
-      {
-        text: "About",
-        link: "/about/",
-      },
     ],
     searchPlaceholder: "Search post, tag, content...",
     footer: {
       copyright: [
+        {
+          text: "About",
+          link: "/about/",
+        },
         {
           text: "Terms",
           link: "/terms/",
@@ -137,7 +161,7 @@ module.exports = {
           link: "https://raw.githubusercontent.com/mrepol742/blog/refs/heads/master/LICENSE",
         },
         {
-          text: "Copyright © 2025 mrepol742",
+          text: "© 2025 Melvin Jones Repol",
         },
       ],
       contact: [
@@ -152,10 +176,6 @@ module.exports = {
         {
           type: "linkedin",
           link: "https://linkedin.com/in/mrepol742",
-        },
-        {
-          type: "youtube",
-          link: "https://youtube.com/@mrepol742",
         },
       ],
     },
@@ -172,8 +192,6 @@ module.exports = {
             id: "post",
             dirname: "_posts",
             path: "/",
-            layout: "Layout",
-            itemLayout: "Layout",
             itemPermalink: "/:slug",
           },
         ],
@@ -201,7 +219,5 @@ module.exports = {
         },
       },
     ],
-    ["@vuepress/back-to-top"],
-    ["@vuepress/last-updated"],
   ],
 };

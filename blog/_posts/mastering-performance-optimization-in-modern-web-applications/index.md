@@ -5,9 +5,9 @@ author: mrepol742
 tags:
   - performance
   - optimization
-  - web development
+  - web-development
   - scalability
-  - best practices
+  - best-practices
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -18,7 +18,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: performance, optimization, web development, scalability, best practices
+    content: performance, optimization, web-development, scalability, best-practices
   - property: og:url
     content: https://mrepol742-blog.vercel.app/mastering-performance-optimization-in-modern-web-applications/
   - rel: canonical

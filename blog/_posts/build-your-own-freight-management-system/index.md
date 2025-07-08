@@ -3,10 +3,10 @@ title: Build Your Own Freight Management System with Axleshift Core 1
 date: 2025-06-22
 author: mrepol742
 tags:
-  - frieght management system
-  - management system
+  - frieght-management-system
+  - management-system
   - system
-  - open source
+  - open-source
   - github
 meta:
   - name: twitter:creator
@@ -18,7 +18,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: freight_management_system management_system system open_source github
+    content: freight-management-system management-system system open-source github
   - property: og:url
     content: https://mrepol742-blog.vercel.app/build-your-own-freight-management-system/
   - rel: canonical

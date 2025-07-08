@@ -3,11 +3,11 @@ title: Performance Optimization in Modern Web Applications- Strategies and Best 
 date: 2025-06-25
 author: mrepol742
 tags:
-  - performance optimization
-  - web development
+  - performance-optimization
+  - web-development
   - frontend
   - backend
-  - best practices
+  - best-practices
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -18,7 +18,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: performance optimization, web development, frontend, backend, best practices
+    content: performance-optimization, web-development, frontend, backend, best practices
   - property: og:url
     content: https://mrepol742-blog.vercel.app/performance-optimization-in-modern-web-applications-strategies-and-best-practices/
   - rel: canonical

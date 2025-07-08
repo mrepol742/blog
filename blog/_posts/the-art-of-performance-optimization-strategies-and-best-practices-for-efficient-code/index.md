@@ -3,11 +3,11 @@ title: The Art of Performance Optimization- Strategies and Best Practices for Ef
 date: 2025-06-27
 author: mrepol742
 tags:
-  - performance optimization
+  - performance-optimization
   - efficiency
-  - best practices
+  - best-practices
   - coding
-  - software engineering
+  - software-engineering
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -18,7 +18,7 @@ meta:
   - name: author
     content: mrepol742
   - name: keywords
-    content: performance optimization, efficiency, best practices, coding, software engineering
+    content: performance-optimization, efficiency, best-practices, coding, software-engineering
   - property: og:url
     content: https://mrepol742-blog.vercel.app/the-art-of-performance-optimization-strategies-and-best-practices-for-efficient-code/
   - rel: canonical
