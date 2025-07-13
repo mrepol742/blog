@@ -8,6 +8,7 @@ tags:
   - softwareengineering
   - llms
   - productivity
+meta:
   - name: twitter:creator
     content: '@mrepol742'
   - name: twitter:title

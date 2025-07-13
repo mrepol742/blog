@@ -9,6 +9,7 @@ tags:
   - trends
   - finance
   - web3
+meta:
   - name: twitter:creator
     content: '@mrepol742'
   - name: twitter:title

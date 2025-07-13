@@ -8,6 +8,7 @@ tags:
   - distributedsystems
   - designpatterns
   - cloud
+meta:
   - name: twitter:creator
     content: '@mrepol742'
   - name: twitter:title
