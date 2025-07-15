@@ -2,7 +2,7 @@ const { description, authors } = require("../../package");
 
 module.exports = {
   base: "/",
-  title: 'Deep',
+  title: "Deep",
   theme: "@vuepress/theme-blog",
   description: description,
   head: [
@@ -143,15 +143,7 @@ module.exports = {
       contact: [
         {
           type: "github",
-          link: "https://github.com/mrepol742",
-        },
-        {
-          type: "facebook",
-          link: "https://facebook.com/melvinjonesrepol",
-        },
-        {
-          type: "linkedin",
-          link: "https://linkedin.com/in/mrepol742",
+          link: "https://github.com/mrepol742/project-deep",
         },
       ],
     },
@@ -166,6 +158,7 @@ module.exports = {
         directories: [
           {
             id: "post",
+            title: "Home",
             dirname: "_posts",
             path: "/",
             itemPermalink: "/deep/:slug",
@@ -174,11 +167,13 @@ module.exports = {
         frontmatters: [
           {
             id: "tag",
+            title: "Tags",
             keys: ["tag", "tags"],
             path: "/tag/",
           },
           {
             id: "author",
+            title: "Authors",
             keys: ["author", "authors"],
             path: "/authors/",
           },
