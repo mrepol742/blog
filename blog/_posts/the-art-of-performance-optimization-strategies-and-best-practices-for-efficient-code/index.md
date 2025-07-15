@@ -6,8 +6,6 @@ tags:
   - performance-optimization
   - efficiency
   - best-practices
-  - coding
-  - software-engineering
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: performance-optimization, efficiency, best-practices, coding, software-engineering
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/the-art-of-performance-optimization-strategies-and-best-practices-for-efficient-code/
+    content: https://projectdeep.vercel.app/deep/the-art-of-performance-optimization-strategies-and-best-practices-for-efficient-code/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/the-art-of-performance-optimization-strategies-and-best-practices-for-efficient-code/
+    href: https://projectdeep.vercel.app/deep/the-art-of-performance-optimization-strategies-and-best-practices-for-efficient-code/
 ---
 
 In the age of lightning-fast applications and ever-growing user expectations, performance optimization has solidified its place as a vital component of software development. Writing performant code isn't just about making things run faster — it’s about resource efficiency, scalability, user satisfaction, and sometimes, even cost savings. This blog post dives deep into the art of performance optimization, spotlighting practical strategies and best practices for efficient code.

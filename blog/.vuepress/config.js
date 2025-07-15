@@ -1,8 +1,8 @@
-const { name, description, authors } = require("../../package");
+const { description, authors } = require("../../package");
 
 module.exports = {
   base: "/",
-  title: name,
+  title: 'Deep',
   theme: "@vuepress/theme-blog",
   description: description,
   head: [
@@ -24,7 +24,7 @@ module.exports = {
 
     // Twitter
     ["meta", { name: "twitter:site", content: "@mrepol742" }],
-    ["meta", { name: "twitter:domain", content: "mrepol742-blog.vercel.app" }],
+    ["meta", { name: "twitter:domain", content: "projectdeep.vercel.app" }],
     ["meta", { name: "twitter:card", content: "summary_large_image" }],
     ["meta", { name: "twitter:image:src", content: "/images/cover.png" }],
     ["meta", { name: "twitter:image:alt", content: "mrepol742 @ blog cover" }],
@@ -86,7 +86,7 @@ module.exports = {
     ["meta", { name: "msapplication-TileColor", content: "#000000" }],
     ["meta", { "http-equiv": "X-UA-Compatible", content: "IE=edge" }],
     ["meta", { charset: "utf-8" }],
-    ["meta", { name: "hostname", content: "mrepol742-blog.vercel.app" }],
+    ["meta", { name: "hostname", content: "projectdeep.vercel.app" }],
     [
       "meta",
       { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -98,36 +98,12 @@ module.exports = {
       { name: "apple-mobile-web-app-status-bar-style", content: "black" },
     ],
 
-    ["meta", { name: "hostname", content: "mrepol742-blog.vercel.app" }],
-    ["link", { rel: "canonical", href: "https://mrepol742-blog.vercel.app" }],
+    ["meta", { name: "hostname", content: "projectdeep.vercel.app" }],
+    ["link", { rel: "canonical", href: "https://projectdeep.vercel.app" }],
   ],
   themeConfig: {
     smoothScroll: true,
     nav: [
-      {
-        text: "Debugging",
-        link: "/tag/debugging/",
-      },
-      {
-        text: "Software Arch",
-        link: "/tag/software-architecture/",
-      },
-      {
-        text: "Cryptocurrency",
-        link: "/tag/cryptocurrency/",
-      },
-      {
-        text: "Code Quality",
-        link: "/tag/cryptocurrency/",
-      },
-      {
-        text: "Open Source",
-        link: "/tag/open-source/",
-      },
-      {
-        text: "AI",
-        link: "/tag/ai/",
-      },
       {
         text: "Tags",
         link: "/tag/",
@@ -141,7 +117,7 @@ module.exports = {
         link: "/random/",
       },
     ],
-    searchPlaceholder: "Search post, tag, content...",
+    searchPlaceholder: "Search deep",
     footer: {
       copyright: [
         {
@@ -158,7 +134,7 @@ module.exports = {
         },
         {
           text: "MIT License",
-          link: "https://raw.githubusercontent.com/mrepol742/blog/refs/heads/master/LICENSE",
+          link: "https://raw.githubusercontent.com/mrepol742/project-deep/refs/heads/master/LICENSE",
         },
         {
           text: "© 2025 Melvin Jones Repol",
@@ -192,7 +168,7 @@ module.exports = {
             id: "post",
             dirname: "_posts",
             path: "/",
-            itemPermalink: "/:slug",
+            itemPermalink: "/deep/:slug",
           },
         ],
         frontmatters: [
@@ -211,7 +187,7 @@ module.exports = {
           hostname: authors.url,
         },
         feed: {
-          canonical_base: "https://mrepol742-blog.vercel.app",
+          canonical_base: "https://projectdeep.vercel.app",
         },
         comment: {
           service: "disqus",

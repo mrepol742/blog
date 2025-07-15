@@ -6,8 +6,6 @@ tags:
   - performance-optimization
   - python
   - profiling
-  - best-practices
-  - code-efficiency
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: performance-optimization, python, profiling, best-practices, code-efficiency
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/mastering-performance-optimization-in-python-techniques-and-best-practices/
+    content: https://projectdeep.vercel.app/deep/mastering-performance-optimization-in-python-techniques-and-best-practices/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/mastering-performance-optimization-in-python-techniques-and-best-practices/
+    href: https://projectdeep.vercel.app/deep/mastering-performance-optimization-in-python-techniques-and-best-practices/
 ---
 
 Performance optimization is a crucial aspect of modern software development, especially as applications scale and user expectations grow. Python, known for its readability and rapid development capabilities, has earned a reputation for being slower than compiled languages. However, with thoughtful approaches, Python code can be made significantly faster and more efficient. In this post, we'll explore techniques and best practices for optimizing Python applications.

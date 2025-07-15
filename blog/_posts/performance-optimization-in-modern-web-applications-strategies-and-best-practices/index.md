@@ -6,8 +6,6 @@ tags:
   - performance-optimization
   - web-development
   - frontend
-  - backend
-  - best-practices
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: performance-optimization, web-development, frontend, backend, best practices
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/performance-optimization-in-modern-web-applications-strategies-and-best-practices/
+    content: https://projectdeep.vercel.app/deep/performance-optimization-in-modern-web-applications-strategies-and-best-practices/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/performance-optimization-in-modern-web-applications-strategies-and-best-practices/
+    href: https://projectdeep.vercel.app/deep/performance-optimization-in-modern-web-applications-strategies-and-best-practices/
 ---
 
 Performance is a cornerstone of user satisfaction and retention in modern web applications. With the competitive stakes higher than ever, users expect blazing-fast load times, smooth interactions, and minimal downtime. This blog post explores practical strategies to optimize both frontend and backend performance, while keeping maintainability and scalability in mind.

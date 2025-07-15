@@ -6,8 +6,6 @@ tags:
   - entrepreneurship
   - management
   - productivity
-  - startups
-  - leadership
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: entrepreneurship, management, productivity, startups, leadership
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/the-power-of-delegation-how-smart-entrepreneurs-scale-their-businesses/
+    content: https://projectdeep.vercel.app/deep/the-power-of-delegation-how-smart-entrepreneurs-scale-their-businesses/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/the-power-of-delegation-how-smart-entrepreneurs-scale-their-businesses/
+    href: https://projectdeep.vercel.app/deep/the-power-of-delegation-how-smart-entrepreneurs-scale-their-businesses/
 ---
 
 ## Introduction

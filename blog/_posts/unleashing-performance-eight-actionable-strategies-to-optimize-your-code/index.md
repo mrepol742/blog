@@ -6,8 +6,6 @@ tags:
   - performance
   - optimization
   - best-practices
-  - code-quality
-  - software-engineering
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: performance, optimization, best-practices, code-quality, software-engineering
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/unleashing-performance-eight-actionable-strategies-to-optimize-your-code/
+    content: https://projectdeep.vercel.app/deep/unleashing-performance-eight-actionable-strategies-to-optimize-your-code/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/unleashing-performance-eight-actionable-strategies-to-optimize-your-code/
+    href: https://projectdeep.vercel.app/deep/unleashing-performance-eight-actionable-strategies-to-optimize-your-code/
 ---
 
 In today’s fast-paced digital world, high-performing applications are essential. Slow code isn’t just a minor irritation—it can hurt user experience, tank business metrics, and, in extreme cases, cripple a project’s viability. Whether you’re building web apps, APIs, or embedded systems, performance optimization should be a vital step in your development cycle. In this post, we’ll discover actionable techniques to squeeze more speed and responsiveness from your code, regardless of the language or framework.

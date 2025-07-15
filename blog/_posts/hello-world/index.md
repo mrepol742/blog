@@ -17,9 +17,9 @@ meta:
   - name: keywords
     content: hello-world programming
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/hello-world/
+    content: https://projectdeep.vercel.app/deep/hello-world/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/hello-world/
+    href: https://projectdeep.vercel.app/deep/hello-world/
 ---
 
 ```java

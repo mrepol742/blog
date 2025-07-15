@@ -6,8 +6,6 @@ tags:
   - software-architecture
   - scalability
   - system-design
-  - distributed-systems
-  - microservices
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: software-architecture, scalability, system-design, distributed-systems, microservices
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/building-scalable-systems-principles-of-robust-software-architecture/
+    content: https://projectdeep.vercel.app/deep/building-scalable-systems-principles-of-robust-software-architecture/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/building-scalable-systems-principles-of-robust-software-architecture/
+    href: https://projectdeep.vercel.app/deep/building-scalable-systems-principles-of-robust-software-architecture/
 ---
 
 # Building Scalable Systems: Principles of Robust Software Architecture

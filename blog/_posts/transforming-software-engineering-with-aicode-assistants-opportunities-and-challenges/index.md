@@ -6,9 +6,6 @@ tags:
   - AI
   - Software Engineering
   - Coding Assistants
-  - Productivity
-  - Trends
-  - Software Development
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -21,9 +18,9 @@ meta:
   - name: keywords
     content: AI, Software Engineering, Coding Assistants, Productivity, Trends, Software Development
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/transforming-software-engineering-with-aicode-assistants-opportunities-and-challenges/
+    content: https://projectdeep.vercel.app/deep/transforming-software-engineering-with-aicode-assistants-opportunities-and-challenges/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/transforming-software-engineering-with-aicode-assistants-opportunities-and-challenges/
+    href: https://projectdeep.vercel.app/deep/transforming-software-engineering-with-aicode-assistants-opportunities-and-challenges/
 ---
 
 # Transforming Software Engineering with AI-Code Assistants: Opportunities and Challenges

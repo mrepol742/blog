@@ -6,8 +6,6 @@ tags:
   - TypeScript
   - JavaScript
   - Programming Languages
-  - Web Development
-  - Best Practices
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: TypeScript, JavaScript, Programming Languages, Web Development, Best Practices
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/why-typescript-is-a-gamechanger-for-javascript-developers/
+    content: https://projectdeep.vercel.app/deep/why-typescript-is-a-gamechanger-for-javascript-developers/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/why-typescript-is-a-gamechanger-for-javascript-developers/
+    href: https://projectdeep.vercel.app/deep/why-typescript-is-a-gamechanger-for-javascript-developers/
 ---
 
 # Why TypeScript is a Game-Changer for JavaScript Developers

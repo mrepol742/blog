@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: innovation technology gadgets
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/top-10-must-have-gadgets-for-2023/
+    content: https://projectdeep.vercel.app/deep/top-10-must-have-gadgets-for-2023/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/top-10-must-have-gadgets-for-2023/
+    href: https://projectdeep.vercel.app/deep/top-10-must-have-gadgets-for-2023/
 ---
 
 ![Gadgets](/blog/images/posts/gadgets.jpg)

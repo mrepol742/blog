@@ -11,16 +11,16 @@ meta:
   - name: author
     content: mrepol742
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/terms/
+    content: https://projectdeep.vercel.app/terms/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/terms/
+    href: https://projectdeep.vercel.app/terms/
 ---
 
 ## Terms of Service
 
 _Last updated: June 2024_
 
-Welcome to our blog. By accessing or using this website, you agree to comply with and be bound by the following terms and conditions.
+By accessing or using this website, you agree to comply with and be bound by the following terms and conditions.
 
 ### 1. Acceptance of Terms
 
@@ -32,7 +32,7 @@ All content provided is for informational purposes only. The owner makes no repr
 
 ### 3. Intellectual Property
 
-Unless otherwise stated, all content on this blog is the property of the author and may not be reproduced without permission.
+Unless otherwise stated, all content on this site is the property of the author and may not be reproduced without permission.
 
 ### 4. User Conduct
 
@@ -40,7 +40,7 @@ You agree not to use the site for any unlawful purpose or to engage in any condu
 
 ### 5. External Links
 
-This blog may contain links to external websites. We are not responsible for the content or practices of these sites.
+Deep may contain links to external websites. We are not responsible for the content or practices of these sites.
 
 ### 6. Changes to Terms
 

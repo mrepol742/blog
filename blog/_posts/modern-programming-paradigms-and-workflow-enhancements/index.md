@@ -6,8 +6,6 @@ tags:
   - programmingparadigms
   - softwaredevelopment
   - workflow
-  - bestpractices
-  - productivity
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: programming paradigms, software development, workflow, best practices, productivity
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/modern-programming-paradigms-and-workflow-enhancements/
+    content: https://projectdeep.vercel.app/deep/modern-programming-paradigms-and-workflow-enhancements/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/modern-programming-paradigms-and-workflow-enhancements/
+    href: https://projectdeep.vercel.app/deep/modern-programming-paradigms-and-workflow-enhancements/
 ---
 
 # Modern Programming Paradigms and Workflow Enhancements

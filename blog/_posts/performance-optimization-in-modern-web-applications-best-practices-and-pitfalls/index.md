@@ -6,8 +6,6 @@ tags:
   - performance-optimization
   - web-development
   - best-practices
-  - frontend
-  - backend
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: performance-optimization, web-development, best-practices, frontend, backend
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/performance-optimization-in-modern-web-applications-best-practices-and-pitfalls/
+    content: https://projectdeep.vercel.app/deep/performance-optimization-in-modern-web-applications-best-practices-and-pitfalls/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/performance-optimization-in-modern-web-applications-best-practices-and-pitfalls/
+    href: https://projectdeep.vercel.app/deep/performance-optimization-in-modern-web-applications-best-practices-and-pitfalls/
 ---
 
 ## Introduction

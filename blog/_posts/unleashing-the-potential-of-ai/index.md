@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: openai technology ai
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/unleashing-the-potential-of-ai/
+    content: https://projectdeep.vercel.app/deep/unleashing-the-potential-of-ai/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/unleashing-the-potential-of-ai/
+    href: https://projectdeep.vercel.app/deep/unleashing-the-potential-of-ai/
 ---
 
 ![OpenAI](/blog/images/posts/openai.webp)

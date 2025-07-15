@@ -11,15 +11,16 @@ meta:
   - name: author
     content: mrepol742
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/about/
+    content: https://projectdeep.vercel.app/about/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/about/
+    href: https://projectdeep.vercel.app/about/
 ---
 
+## Deep
 
-<div align="center">
-    <img align="center" src="https://avatars.githubusercontent.com/mrepol742" alt="Picture of Melvin Jones Repol" width="200"><br><br>
-    <h1>Melvin Jones Repol</h1>
-    <p>Freelance Software Engineer | DevOps</p>
-    <a href="/blog/building-a-blog-with-vuepress/">Contribute</a> · <a href="https://github.com/mrepol742/blog">Source</a> · <a href="https://github.com/mrepol742/blog/fork">Fork</a>
-</div>
+We are a open-source collaboration platform dedicated to empowering developers, writers, and technology enthusiasts. Our goal is to create a vibrant community where members can freely share insights, tips, tutorials, and personal experiences with a global audience.
+
+Whether you're a seasoned developer, a curious learner, or someone eager to share your journey, Deep welcomes you. Join us to collaborate, connect, and grow together!
+
+[Visit our GitHub repository](https://github.com/mrepol742/project-deep)
+[MIT License](https://raw.githubusercontent.com/mrepol742/project-deep/refs/heads/master/LICENSE)

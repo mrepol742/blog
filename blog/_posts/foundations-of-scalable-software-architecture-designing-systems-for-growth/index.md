@@ -6,8 +6,6 @@ tags:
   - softwarearchitecture
   - scalability
   - distributedsystems
-  - designpatterns
-  - cloud
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: software architecture, scalability, distributed systems, design patterns, cloud
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/foundations-of-scalable-software-architecture-designing-systems-for-growth/
+    content: https://projectdeep.vercel.app/deep/foundations-of-scalable-software-architecture-designing-systems-for-growth/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/foundations-of-scalable-software-architecture-designing-systems-for-growth/
+    href: https://projectdeep.vercel.app/deep/foundations-of-scalable-software-architecture-designing-systems-for-growth/
 ---
 
 # Foundations of Scalable Software Architecture: Designing Systems for Growth

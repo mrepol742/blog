@@ -6,8 +6,6 @@ tags:
   - performance-optimization
   - best-practices
   - code-efficiency
-  - profiling
-  - software-engineering
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: performance-optimization, best-practices, code-efficiency, profiling, software-engineering
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/unlocking-performance-essential-techniques-for-code-optimization/
+    content: https://projectdeep.vercel.app/deep/unlocking-performance-essential-techniques-for-code-optimization/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/unlocking-performance-essential-techniques-for-code-optimization/
+    href: https://projectdeep.vercel.app/deep/unlocking-performance-essential-techniques-for-code-optimization/
 ---
 
 Performance optimization is a crucial aspect of software development that directly impacts user experience, resource consumption, and scalability. While modern hardware can compensate for some inefficiencies, writing optimized code remains essential, especially for high-traffic apps, data-intensive systems, and mobile or embedded devices. In this post, we'll delve into fundamental performance optimization techniques every developer should understand, regardless of their tech stack.

@@ -6,9 +6,6 @@ tags:
   - defi
   - cryptocurrency
   - blockchain
-  - trends
-  - finance
-  - web3
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -21,9 +18,9 @@ meta:
   - name: keywords
     content: DeFi, cryptocurrency, blockchain, trends, finance, web3
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/defi-20-the-next-evolution-in-decentralized-finance/
+    content: https://projectdeep.vercel.app/deep/defi-20-the-next-evolution-in-decentralized-finance/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/defi-20-the-next-evolution-in-decentralized-finance/
+    href: https://projectdeep.vercel.app/deep/defi-20-the-next-evolution-in-decentralized-finance/
 ---
 
 # DeFi 2.0: The Next Evolution in Decentralized Finance

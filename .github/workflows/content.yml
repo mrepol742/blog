@@ -1,4 +1,4 @@
-name: Content Generation
+name: Deep
 
 on:
   schedule:
@@ -12,14 +12,14 @@ permissions:
   models: read
 
 jobs:
-  content-generation:
+  deep:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.API_TOKEN_GITHUB }}
-      - name: Generate Blog Post
+      - name: Generate Deep Post
         env:
           GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
         run: |
@@ -62,7 +62,7 @@ jobs:
           echo "date: $(date +%F)"
           echo "author: mrepol742"
           echo "tags:"
-          node -e 'JSON.parse(process.argv[1]).tags.forEach(tag => console.log("  - " + tag.toLowerCase().replace(/\s+/g, "")))' "$MESSAGE"
+          node -e 'JSON.parse(process.argv[1]).tags.slice(0,3).forEach(tag => console.log("  - " + tag.toLowerCase().replace(/\s+/g, "")))' "$MESSAGE"
           echo "meta:"
           echo "  - name: twitter:creator"
           echo "    content: '@mrepol742'"
@@ -75,9 +75,9 @@ jobs:
           echo "  - name: keywords"
           echo "    content: $(node -pe 'JSON.parse(process.argv[1]).tags.join(", ")' "$MESSAGE")"
           echo "  - property: og:url"
-          echo "    content: https://mrepol742-blog.vercel.app/$SLUG/"
+          echo "    content: https://projectdeep.vercel.app/deep/$SLUG/"
           echo "  - rel: canonical"
-          echo "    href: https://mrepol742-blog.vercel.app/$SLUG/"
+          echo "    href: https://projectdeep.vercel.app/deep/$SLUG/"
           echo "---"
           echo ""
           } > index.md
@@ -96,7 +96,7 @@ jobs:
         run: |
           TITLE=$(cat /tmp/generated_blog_title.txt)
           git add .
-          git commit -m "Add new blog post: $TITLE" || echo "No changes to commit"
+          git commit -m "feat: $TITLE" || echo "No changes to commit"
           git push origin master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

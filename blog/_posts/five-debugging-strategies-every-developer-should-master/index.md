@@ -6,8 +6,6 @@ tags:
   - debugging
   - development-workflow
   - best-practices
-  - problem-solving
-  - software-engineering
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: debugging, development-workflow, best-practices, problem-solving, software-engineering
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/five-debugging-strategies-every-developer-should-master/
+    content: https://projectdeep.vercel.app/deep/five-debugging-strategies-every-developer-should-master/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/five-debugging-strategies-every-developer-should-master/
+    href: https://projectdeep.vercel.app/deep/five-debugging-strategies-every-developer-should-master/
 ---
 
 Debugging is a core part of every programmer’s toolkit. It doesn’t matter how rigorously you test or how mature your codebase is—bugs are inevitable. Yet, debugging is often underemphasized in formal curricula or technical blogs. Mastering effective debugging strategies not only resolves issues faster but also improves your understanding of your software, making you a better developer in the process. Today, we’ll walk through five essential debugging strategies that everyone, from juniors to seasoned engineers, should know.

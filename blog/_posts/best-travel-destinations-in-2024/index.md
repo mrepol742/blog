@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: travel adventure explore
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/best-travel-destinations-in-2024/
+    content: https://projectdeep.vercel.app/deep/best-travel-destinations-in-2024/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/best-travel-destinations-in-2024/
+    href: https://projectdeep.vercel.app/deep/best-travel-destinations-in-2024/
 ---
 
 ![Travel](/blog/images/posts/travel.jpeg)

@@ -1,8 +1,8 @@
 ![](blog.gif)
 
-# mrepol742 @ blog
+# Deep
 
-Welcome to the world of blogging and open-source collaboration! Share your insights, tips, or experiences with a broader audience.
+A open-source collaboration! Share your insights, tips, or experiences with a broader audience.
 
 ```bash
 # run

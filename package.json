@@ -1,9 +1,9 @@
 {
-  "name": "@mrepol742/blog",
+  "name": "@mrepol742/project-deep",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "homepage": "https://mrepol742-blog.vercel.app",
+  "homepage": "https://projectdeep.vercel.app",
   "authors": {
     "name": "Melvin Jones Repol",
     "email": "mrepol742@gmail.com",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrepol742/blog.git"
+    "url": "https://github.com/mrepol742/project-deep.git"
   },
   "bugs": {
-    "url": "https://github.com/mrepol742/blog/issues",
+    "url": "https://github.com/mrepol742/project-deep/issues",
     "email": "mrepol742@gmail.com"
   },
   "scripts": {

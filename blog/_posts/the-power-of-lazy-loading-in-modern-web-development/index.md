@@ -6,9 +6,6 @@ tags:
   - web-development
   - performance
   - optimization
-  - JavaScript
-  - frontend
-  - best-practices
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -21,9 +18,9 @@ meta:
   - name: keywords
     content: web-development, performance, optimization, JavaScript, frontend, best-practices
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/the-power-of-lazy-loading-in-modern-web-development/
+    content: https://projectdeep.vercel.app/deep/the-power-of-lazy-loading-in-modern-web-development/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/the-power-of-lazy-loading-in-modern-web-development/
+    href: https://projectdeep.vercel.app/deep/the-power-of-lazy-loading-in-modern-web-development/
 ---
 
 ### Introduction
