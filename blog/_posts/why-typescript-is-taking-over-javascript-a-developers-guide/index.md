@@ -6,8 +6,6 @@ tags:
   - typescript
   - javascript
   - programminglanguages
-  - webdevelopment
-  - bestpractices
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: TypeScript, JavaScript, Programming Languages, Web Development, Best Practices
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/why-typescript-is-taking-over-javascript-a-developers-guide/
+    content: https://projectdeep.vercel.app/deep/why-typescript-is-taking-over-javascript-a-developers-guide/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/why-typescript-is-taking-over-javascript-a-developers-guide/
+    href: https://projectdeep.vercel.app/deep/why-typescript-is-taking-over-javascript-a-developers-guide/
 ---
 
 # Why TypeScript is Taking Over JavaScript: A Developer’s Guide
