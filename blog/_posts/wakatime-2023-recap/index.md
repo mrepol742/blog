@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: wakatime code stats
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/wakatime-2023-recap/
+    content: https://projectdeep.vercel.app/deep/wakatime-2023-recap/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/wakatime-2023-recap/
+    href: https://projectdeep.vercel.app/deep/wakatime-2023-recap/
 ---
 
 The digital realm is constantly evolving, and at the heart of this evolution are the dedicated developers shaping the future through code. In 2023, over half a million developers embarked on a collective journey, spending a staggering 51 million hours immersed in the art and science of programming, all meticulously tracked by WakaTime plugins. As we unravel the coding odyssey of 2023, let's delve into the highlights, trends, and revelations that defined this dynamic year.

@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: webvium browser android-browser
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/webvium-latest-release-version-2-9/
+    content: https://projectdeep.vercel.app/deep/webvium-latest-release-version-2-9/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/webvium-latest-release-version-2-9/
+    href: https://projectdeep.vercel.app/deep/webvium-latest-release-version-2-9/
 ---
 
 After two years of dedicated development and anticipation, the team behind Webvium is thrilled to unveil the latest version of our beloved web browser: Webvium v2.9. Packed with a plethora of exciting updates, including revamped UI features and bug fixes, this release marks a significant milestone in our journey to provide users with an unparalleled browsing experience. In this blog post, we'll delve into the key enhancements and improvements that await you in Webvium v2.9.

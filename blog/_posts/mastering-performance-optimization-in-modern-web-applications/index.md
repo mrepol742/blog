@@ -6,8 +6,6 @@ tags:
   - performance
   - optimization
   - web-development
-  - scalability
-  - best-practices
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: performance, optimization, web-development, scalability, best-practices
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/mastering-performance-optimization-in-modern-web-applications/
+    content: https://projectdeep.vercel.app/deep/mastering-performance-optimization-in-modern-web-applications/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/mastering-performance-optimization-in-modern-web-applications/
+    href: https://projectdeep.vercel.app/deep/mastering-performance-optimization-in-modern-web-applications/
 ---
 
 Performance optimization is a crucial aspect of modern web application development. As applications grow in complexity and user bases expand, ensuring that your app remains fast, responsive, and efficient becomes vital for user satisfaction and business success. In this post, we’ll explore the principles and practical techniques to optimize web application performance at various layers of the stack.

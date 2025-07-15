@@ -6,8 +6,6 @@ tags:
   - DeFi
   - cryptocurrency
   - blockchain
-  - finance
-  - trends
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: DeFi, cryptocurrency, blockchain, finance, trends
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/defi-the-future-of-decentralized-finance-explained/
+    content: https://projectdeep.vercel.app/deep/defi-the-future-of-decentralized-finance-explained/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/defi-the-future-of-decentralized-finance-explained/
+    href: https://projectdeep.vercel.app/deep/defi-the-future-of-decentralized-finance-explained/
 ---
 
 ### Introduction

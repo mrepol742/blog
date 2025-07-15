@@ -6,8 +6,6 @@ tags:
   - debugging
   - code-quality
   - programming
-  - software-development
-  - best-practices
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: debugging, code-quality, programming, software-development, best-practices
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/effective-debugging-strategies-and-code-quality-improvements/
+    content: https://projectdeep.vercel.app/deep/effective-debugging-strategies-and-code-quality-improvements/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/effective-debugging-strategies-and-code-quality-improvements/
+    href: https://projectdeep.vercel.app/deep/effective-debugging-strategies-and-code-quality-improvements/
 ---
 
 # Effective Debugging Strategies and Code Quality Improvements

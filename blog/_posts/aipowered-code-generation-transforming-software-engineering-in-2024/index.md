@@ -6,8 +6,6 @@ tags:
   - ai
   - codegeneration
   - softwareengineering
-  - llms
-  - productivity
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: AI, Code Generation, Software Engineering, LLMs, Productivity
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/aipowered-code-generation-transforming-software-engineering-in-2024/
+    content: https://projectdeep.vercel.app/deep/aipowered-code-generation-transforming-software-engineering-in-2024/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/aipowered-code-generation-transforming-software-engineering-in-2024/
+    href: https://projectdeep.vercel.app/deep/aipowered-code-generation-transforming-software-engineering-in-2024/
 ---
 
 # AI-Powered Code Generation: Transforming Software Engineering in 2024

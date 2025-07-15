@@ -1,35 +1,35 @@
 ---
-title: How to Contribute to mrepol742 @ blog
-date: 2024-01-02
+title: How to Contribute to Deep
+date: 2025-07-15
 author: mrepol742
 tags:
-  - mrepol742
-  - blog
-  - contribution
+  - deep
+  - open-source
+  - how-to
 meta:
   - name: twitter:creator
     content: '@mrepol742'
   - name: twitter:title
-    content: How to Contribute to mrepol742 @ blog
+    content: How to Contribute to Deep
   - property: og:title
-    content: How to Contribute to mrepol742 @ blog
+    content: How to Contribute to Deep
   - name: author
     content: mrepol742
   - name: keywords
-    content: mrepol742 blog contribution
+    content: deep, open source, how-to
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/contribute-to-mrepol742-blog/
+    content: https://projectdeep.vercel.app/deep/contribute-to-deep/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/contribute-to-mrepol742-blog/
+    href: https://projectdeep.vercel.app/deep/contribute-to-deep/
 ---
 
-![mrepol742 @ blog](/blog/images/posts/blog.gif)
+![](/blog/images/posts/blog.gif)
 
-Welcome to the world of blogging and open-source collaboration! If you're eager to share your insights, tips, or experiences with a broader audience, contributing to my mrepol742 @ blog Repository is a fantastic opportunity. In this blog post, we'll walk you through the steps to make your mark on this open-source project.
+A open-source collaboration! If you're eager to share your insights, tips, or experiences with a broader audience, contributing to Deep Repository is a fantastic opportunity. In this deep, we'll walk you through the steps to make your mark on this open-source project.
 
 ## **Fork the Repository**
 
-To start contributing, fork the [mrepol742 @ blog](https://github.com/mrepol742/blog/fork) Repository to your GitHub account. This creates a personal copy of the repository where you can freely make changes without affecting the original project.
+To start contributing, fork the [Deep](https://github.com/mrepol742/project-deep/fork) Repository to your GitHub account. This creates a personal copy of the repository where you can freely make changes without affecting the original project.
 
 ---
 
@@ -37,7 +37,7 @@ To start contributing, fork the [mrepol742 @ blog](https://github.com/mrepol742/
 
 Clone the fork repository to your local machine:
 ```
-git clone https://github.com/your-username/blog.git
+git clone https://github.com/your-username/project-deep.git
 ```
 Replace `your-username`  with your actual Github username.
 
@@ -59,7 +59,7 @@ Add the following content to your `index.md`, updating the details accordingly:
 
 ```
 ---
-title: Title of your blog post
+title: Title of your deep
 date: YYYY-MM-DD
 author: Username
 location: City  
@@ -72,9 +72,9 @@ meta:
   - name: twitter:creator
     content: 'Username with @'
   - name: twitter:title
-    content: Title of your blog post
+    content: Title of your deep
   - property: og:title
-    content: Title of your blog post
+    content: Title of your deep
   - name: author
     content: Username
   - name: keywords
@@ -112,11 +112,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ```
 
-> Please refer for other blog post inside the `blog/_posts` folder for refereces
+> Please refer for other deep inside the `blog/_posts` folder for refereces
 
 ## **Include Images and Assets**
 
-If your blog post includes images or other assets, make sure to include them in the appropriate directory. Update any relevant paths in your Markdown file to ensure everything displays correctly.
+If your deep includes images or other assets, make sure to include them in the appropriate directory. Update any relevant paths in your Markdown file to ensure everything displays correctly.
 
 ## **Preview Your Changes**
 
@@ -131,23 +131,21 @@ npm run dev
 - Create a new branch for your changes.
 
   ```
-  git checkout -b added_post
+  git checkout -b added_deep
   ```
 
 - Commit your changes and push them to your forked repository
 
   ```
-  git add . && git commit -m "Added Post"
+  git add . && git commit -m "feat: your deep title"
   git push origin master
   ```
 
 - Create a pull request from your forked repository (remote) to the main repository
-- Change the PR title to `Added Post`
-
-- In the description, add the `Title of your blog post`.
+- Change the PR title to `Your deep title`
 
 ## **Review**
 
-Your blog post will be reviewed for additional changes or to be deployed.
+Your deep will be reviewed for additional changes or to be deployed.
 
-Thank you for contributing to mrepol742 @ blog.
+Thank you for contributing to Deep.

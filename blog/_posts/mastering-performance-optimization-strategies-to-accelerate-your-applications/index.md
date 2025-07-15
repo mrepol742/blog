@@ -6,9 +6,6 @@ tags:
   - performance-optimization
   - coding-best-practices
   - backend
-  - frontend
-  - profiling
-  - refactoring
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -21,9 +18,9 @@ meta:
   - name: keywords
     content: performance-optimization, coding-best-practices, backend, frontend, profiling, refactoring
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/mastering-performance-optimization-strategies-to-accelerate-your-applications/
+    content: https://projectdeep.vercel.app/deep/mastering-performance-optimization-strategies-to-accelerate-your-applications/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/mastering-performance-optimization-strategies-to-accelerate-your-applications/
+    href: https://projectdeep.vercel.app/deep/mastering-performance-optimization-strategies-to-accelerate-your-applications/
 ---
 
 In the fast-paced world of software development, creating applications that run smoothly and efficiently is critical. An app bogged down by delays and excessive resource consumption can turn away users and rack up infrastructure costs. Understanding and implementing performance optimization techniques is therefore essential for every developer. 

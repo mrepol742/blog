@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: webvium browser android-browser
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/webvium-lightweight-fast-and-secured-web-browser/
+    content: https://projectdeep.vercel.app/deep/webvium-lightweight-fast-and-secured-web-browser/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/webvium-lightweight-fast-and-secured-web-browser/
+    href: https://projectdeep.vercel.app/deep/webvium-lightweight-fast-and-secured-web-browser/
 ---
 
 

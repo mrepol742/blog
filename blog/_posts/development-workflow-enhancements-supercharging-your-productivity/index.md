@@ -6,8 +6,6 @@ tags:
   - workflow
   - productivity
   - development-tools
-  - automation
-  - ci-cd
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: workflow, productivity, development-tools, automation, ci-cd
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/development-workflow-enhancements-supercharging-your-productivity/
+    content: https://projectdeep.vercel.app/deep/development-workflow-enhancements-supercharging-your-productivity/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/development-workflow-enhancements-supercharging-your-productivity/
+    href: https://projectdeep.vercel.app/deep/development-workflow-enhancements-supercharging-your-productivity/
 ---
 
 In today's fast-paced world of technology, efficient development workflow can be the difference between thriving and barely surviving. As teams grow and projects scale, optimizing your workflow isn't just a nice-to-have—it becomes essential for sustained delivery, happiness, and innovation. Here, we’ll explore actionable strategies for enhancing your development workflow, including practical tool suggestions and real-world tips.

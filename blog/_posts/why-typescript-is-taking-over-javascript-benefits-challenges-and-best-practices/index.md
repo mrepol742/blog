@@ -6,9 +6,6 @@ tags:
   - TypeScript
   - JavaScript
   - programming languages
-  - frontend
-  - web development
-  - best practices
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -21,9 +18,9 @@ meta:
   - name: keywords
     content: TypeScript, JavaScript, programming languages, frontend, web development, best practices
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/why-typescript-is-taking-over-javascript-benefits-challenges-and-best-practices/
+    content: https://projectdeep.vercel.app/deep/why-typescript-is-taking-over-javascript-benefits-challenges-and-best-practices/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/why-typescript-is-taking-over-javascript-benefits-challenges-and-best-practices/
+    href: https://projectdeep.vercel.app/deep/why-typescript-is-taking-over-javascript-benefits-challenges-and-best-practices/
 ---
 
 # Why TypeScript is Taking Over JavaScript: Benefits, Challenges, and Best Practices

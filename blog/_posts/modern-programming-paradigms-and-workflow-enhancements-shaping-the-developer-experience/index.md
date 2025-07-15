@@ -5,9 +5,7 @@ author: mrepol742
 tags:
   - programming-paradigms
   - workflow
-  - best-practices
-  - software-development
-  - automation
+  - best-practice
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: programming-paradigms, workflow, best-practices, software-development, automation
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/modern-programming-paradigms-and-workflow-enhancements-shaping-the-developer-experience/
+    content: https://projectdeep.vercel.app/deep/modern-programming-paradigms-and-workflow-enhancements-shaping-the-developer-experience/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/modern-programming-paradigms-and-workflow-enhancements-shaping-the-developer-experience/
+    href: https://projectdeep.vercel.app/deep/modern-programming-paradigms-and-workflow-enhancements-shaping-the-developer-experience/
 ---
 
 # Modern Programming Paradigms and Workflow Enhancements: Shaping the Developer Experience

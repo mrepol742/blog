@@ -6,8 +6,6 @@ tags:
   - software-architecture
   - scalable-systems
   - cloud
-  - microservices
-  - distributed-systems
 meta:
   - name: twitter:creator
     content: '@mrepol742'
@@ -20,9 +18,9 @@ meta:
   - name: keywords
     content: software-architecture, scalable-systems, cloud, microservices, distributed-systems
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/building-scalable-systems-principles-of-modern-software-architecture/
+    content: https://projectdeep.vercel.app/deep/building-scalable-systems-principles-of-modern-software-architecture/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/building-scalable-systems-principles-of-modern-software-architecture/
+    href: https://projectdeep.vercel.app/deep/building-scalable-systems-principles-of-modern-software-architecture/
 ---
 
 In today’s fast-moving digital landscape, building scalable software systems is more crucial than ever. With users expecting seamless experiences regardless of traffic spikes or growing datasets, thoughtful software architecture becomes a key differentiator. This post explores the core principles of scalable systems and how modern architectural paradigms can help you meet ever-increasing demand.

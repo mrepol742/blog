@@ -18,9 +18,9 @@ meta:
   - name: keywords
     content: recipes health fitness
   - property: og:url
-    content: https://mrepol742-blog.vercel.app/healthy-and-delicious-recipes-for-weight-loss/
+    content: https://projectdeep.vercel.app/deep/healthy-and-delicious-recipes-for-weight-loss/
   - rel: canonical
-    href: https://mrepol742-blog.vercel.app/healthy-and-delicious-recipes-for-weight-loss/
+    href: https://projectdeep.vercel.app/deep/healthy-and-delicious-recipes-for-weight-loss/
 ---
 
 Embarking on a weight loss journey doesn't mean sacrificing flavor or enjoyment in your meals. In fact, a nutritious diet can be both delicious and satisfying. In this comprehensive guide, we'll explore a collection of healthy and mouthwatering recipes designed to support your weight loss goals. Say goodbye to bland meals and hello to a vibrant, flavorful approach to shedding those extra pounds.
