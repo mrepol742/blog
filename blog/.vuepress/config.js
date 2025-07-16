@@ -102,6 +102,8 @@ module.exports = {
     ["link", { rel: "canonical", href: "https://projectdeep.vercel.app" }],
   ],
   themeConfig: {
+    dateFormat: 'ddd MMMM D YYYY',
+    summaryLength: 700,
     smoothScroll: true,
     nav: [
       {
@@ -162,6 +164,9 @@ module.exports = {
             dirname: "_posts",
             path: "/",
             itemPermalink: "/deep/:slug",
+            pagination: {
+              lengthPerPage: 15,
+            },
           },
         ],
         frontmatters: [
