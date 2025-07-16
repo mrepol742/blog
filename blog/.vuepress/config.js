@@ -1,10 +1,8 @@
-const { description, authors } = require("../../package");
-
 module.exports = {
   base: "/",
   title: "Deep",
   theme: "@vuepress/theme-blog",
-  description: description,
+  description: "",
   head: [
     // [
     //   "script",
@@ -102,7 +100,7 @@ module.exports = {
     ["link", { rel: "canonical", href: "https://projectdeep.vercel.app" }],
   ],
   themeConfig: {
-    dateFormat: 'ddd MMMM D YYYY',
+    dateFormat: "ddd MMMM D YYYY",
     summaryLength: 700,
     smoothScroll: true,
     nav: [
@@ -184,7 +182,7 @@ module.exports = {
           },
         ],
         sitemap: {
-          hostname: authors.url,
+          hostname: "https://projectdeep.vercel.app",
         },
         feed: {
           canonical_base: "https://projectdeep.vercel.app",
