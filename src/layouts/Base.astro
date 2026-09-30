@@ -104,6 +104,10 @@ const isLoggedIn = !!Astro.locals.user;
 				}
 			})();
 		</script>
+		<script async
+			src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5077097159223655"
+			crossorigin="anonymous"
+		></script>
 	</head>
 	<body>
 		<EmDashBodyStart page={pageCtx} />
@@ -203,9 +207,12 @@ const isLoggedIn = !!Astro.locals.user;
 						</ul>
 					</div>
 					<div class="footer-nav">
-						<h2 class="footer-heading">Connect</h2>
+						<h2 class="footer-heading">Misc</h2>
 						<ul class="footer-links">
+							<li><a href="https://status.melvinjonesrepol.com" target="_blank">Status</a></li>
+							<li><a href="https://www.melvinjonesrepol.com/legal" target="_blank">Legal</a></li>
 							<li><a href="/rss.xml">RSS Feed</a></li>
+							<li><a href="/sitemap.xml">Sitemap</a></li>
 						</ul>
 					</div>
 					<div class="footer-widgets-section">
@@ -214,7 +221,7 @@ const isLoggedIn = !!Astro.locals.user;
 				</div>
 				<div class="footer-bottom">
 					<p class="footer-copyright">
-						Powered by <a href="https://emdashcms.com">EmDash</a>
+						&copy; {new Date().getFullYear()} Melvin Jones Repol. All Rights Reserved
 					</p>
 					<div class="theme-switcher">
 						<button
