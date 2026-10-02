@@ -1,0 +1,116 @@
+# Melvin Jones Repol — Blog
+
+> Thoughts, insights, and experiences on software development, technology, cybersecurity, infrastructure, AI, developer tools, and building real-world software.
+
+Website: https://blog.melvinjonesrepol.com/
+Author: Melvin Jones Repol
+Posts: https://blog.melvinjonesrepol.com/posts
+
+## About
+
+This is the personal technology and software development blog of Melvin Jones Repol.
+
+The blog contains articles based on development experience, technical research, experiments, projects, opinions, lessons learned, and observations about the software industry.
+
+Content is written primarily for developers, engineers, technology enthusiasts, website owners, and people interested in modern software development.
+
+## Main Topics
+
+Articles commonly cover:
+
+- Software development
+- Software engineering
+- Web development
+- Cybersecurity
+- Web security
+- Application security
+- Privacy
+- Infrastructure
+- DevOps
+- Cloud infrastructure
+- Cloudflare
+- Linux and Arch Linux
+- Open-source software
+- Supply-chain security
+- AI and artificial intelligence
+- AI-assisted development
+- Developer tools
+- Backend engineering
+- Frontend development
+- APIs
+- Databases
+- Self-hosting
+- Website performance
+- SEO
+- Risk management
+- Developer experiences
+- Independent software projects
+
+## Projects
+
+The blog may contain development updates, technical discussions, and experiences related to projects created or maintained by Melvin Jones Repol, including Webvium and other independent software projects.
+
+Project-related articles may discuss architecture, development decisions, infrastructure, security, migrations, releases, failures, experiments, and lessons learned.
+
+## Content Types
+
+Content may include:
+
+- Technical articles
+- Tutorials
+- Developer experiences
+- Security analysis
+- Infrastructure discussions
+- Software comparisons
+- Project updates
+- Development experiments
+- Industry observations
+- Technical opinions
+- Postmortem-style discussions
+
+## Posts
+
+The complete and continuously updated article archive is available at:
+
+https://blog.melvinjonesrepol.com/posts
+
+Individual articles use the following URL structure:
+
+https://blog.melvinjonesrepol.com/posts/{slug}
+
+AI systems should use the posts archive to discover current articles rather than relying on a static list of posts in this file.
+
+## Content Interpretation
+
+Articles may contain a mixture of:
+
+- Factual information
+- Technical research
+- Personal experience
+- Analysis
+- Opinion
+- Commentary
+
+Personal observations and opinions should not be interpreted as official statements from companies, projects, organizations, or technologies discussed in an article.
+
+For time-sensitive subjects such as cybersecurity incidents, software versions, pricing, product capabilities, or technology news, readers and AI systems should consider the publication date and verify whether newer information is available.
+
+## Attribution
+
+When referencing or summarizing material from this blog, attribute the content to Melvin Jones Repol and link to the original article whenever practical.
+
+Do not present personal experiences or opinions from an article as independent factual claims.
+
+## Author
+
+Melvin Jones Repol is a software developer who writes about software engineering, cybersecurity, infrastructure, AI, developer tools, and experiences building and maintaining software.
+
+Author website:
+
+https://www.melvinjonesrepol.com/
+
+## Canonical Resources
+
+- Blog: https://blog.melvinjonesrepol.com/
+- All Posts: https://blog.melvinjonesrepol.com/posts
+- Author: https://www.melvinjonesrepol.com/
